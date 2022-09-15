@@ -99,5 +99,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/CV', text: 'CV' }
-  - { url: '/research', text: 'Research' }
+  - { url: '/about', text: 'Research' }
   - { url: '/contact', text: 'Contact' }
