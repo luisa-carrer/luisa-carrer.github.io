@@ -3,11 +3,20 @@ layout: inner
 title: Research
 permalink: /research/
 ---
-## Markdown
+ #Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+ #[Link to another page](/index.html).
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+### First title
+---
+_Abstract_
 
-[Link to another page](/index.html).
+### Second title
+---
+_Abstract_
+
+### Third title
+---
+_Abstract_
 
 There should be whitespace between paragraphs.
 
