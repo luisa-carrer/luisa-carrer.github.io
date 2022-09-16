@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-# Curriculum Vitae
+# CV
 ---
 
 <p>&nbsp;
