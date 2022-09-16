@@ -98,6 +98,6 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/bio', text: 'CV' }
+  - { url: '/resume', text: 'CV' }
   - { url: '/research', text: 'Research' }
   - { url: '/contact', text: 'Contact' }
