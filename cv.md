@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Resume
+title: cv
 permalink: /cv/
 ---
 
