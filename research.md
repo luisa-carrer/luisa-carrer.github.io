@@ -10,9 +10,6 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-
-### _The Effectiveness of Parental Leaves when Social Norms Matter_
-
 <h1 style="font-size:16px;"><em>The Effectiveness of Parental Leaves when Social Norms Matter</em></h1>
 
 ---
