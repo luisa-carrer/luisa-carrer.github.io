@@ -3,212 +3,47 @@ layout: inner
 title: Research
 permalink: /research/
 ---
- #Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
- #[Link to another page](/index.html).
 
-### First title
----
-_Abstract_
-
-### Second title
----
-_Abstract_
-
-### Third title
----
-_Abstract_
-
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+# Research
 ---
 
-### Here is an unordered list:
+<p>&nbsp;
+</p>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
+### _The Effectiveness of Parental Leaves when Social Norms Matter_
 ---
+_Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake._
 
-## Syntax highlighting
+<p>&nbsp;
+</p>
 
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
+### _Gender Culture and Parental Leave: Evidence from Municipal-Level Facebook Data_
 
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
+joint with Lorenzo de Masi (Universidad Carlos III)
 ---
+_In this paper, we exploit the massive amount of information from Facebook to build a measure of gender attitudes at previously impossible resolution-the municipal level. After constructing our index via a machine learning method to replicate a benchmark region-level measure, we use it to empirically examine the role of gender culture in parental leave decisions. Our methodology generates variation in attitudes within narrowly defined geographical areas, thus allowing us to compare individuals facing the same institutional and labor market environments. Additionally, rich administrative data allows us to control for several worker and firm characteristics that likely affect the individual participation to leave programs. We expect to find that living in more gender conservative areas induces female (male) workers to ask for relatively longer (shorter) leaves. We then %study the heterogeneity of our estimates across different job occupations and wage levels. In particular, we ask whether such an effect is stronger for women at the top of the wage distribution, since taking a greater share of the leave might help them alleviate their sense of 'guilt' for having a career. Because the loss of work experience is particularly costly for them, long periods of leave may ultimately result in large career costs. As a result, rather than facilitating gender convergence in the labor market, standard leave entitlements might in fact backfire, when interacting with slow-moving gendered culture._
 
-#### Bash
+<p>&nbsp;
+</p>
 
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
+### _A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada_
 
-#### HTML
+joint with Pierre-Loup Beauregard (University of British Columbia) and Sébastien Montpetit (Toulouse School of Economics)
+---
+_While numerous studies examine the causal impacts of changes in family policy, their overall welfare impacts for the economy at large are still poorly understood. 
+In this paper, we wish to study the welfare effect of the most ambitious childcare reform in North America, which introduced universal daycare subsidies in Québec in 1997. To this end, we combine reduced-form and structural approaches to estimate the welfare impact of the policy with minimal structure. 
+First, we will estimate the program's net cost for the government budget by leveraging evidence on the positive short- and long-term effects on maternal labor supply and children's education and labor market outcomes. Our preliminary results point to positive and large impacts on educational attainment of treated children as well as on labor-market outcomes of female children as they age. Using novel data on regional availability of daycare centers within Québec, we will also investigate treatment effect heterogeneity along this margin. Second, we will measure the program's value for recipients by estimating a structural model of household labor supply and child care arrangements for which we use the reduced-form evidence for validation. This allows us to both leverage the gains of the "credibility revolution" for the goal of welfare analysis, in the spirit of a sufficient statistics approach, and account for (possibly non-pecuniary) benefits for recipients, stemming from such a large policy change._
 
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
+<p>&nbsp;
+</p>
 
- </body>
-</html>
-{% endhighlight %}
+## Other work in progress
 
-#### CSS
+### _'Mommy Wars' and Endogenous Gender Identity_
 
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
+### _The Causal Effects of Rent Control: Evidence from Spain_
 
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
+joint with Michael Abel (ESCP) and Jaime Luque (ESCP)
 
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
 
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
