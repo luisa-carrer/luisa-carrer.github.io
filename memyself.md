@@ -11,5 +11,5 @@ permalink: /memyself/
 <p>&nbsp;
 </p>
 
-<video src="concert-toulouse_final.mp4" poster="Concert-Toulouse-hor.jpg" controls>
+<video src="concert-toulouse_final.mp4" controls>
 </video>
