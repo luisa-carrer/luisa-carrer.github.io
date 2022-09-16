@@ -103,4 +103,5 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/cv', text: 'CV' }
   - { url: '/research', text: 'Research' }
+  - { url: '/memyself', text: 'Me&Myself' }
   - { url: '/contact', text: 'Contact' }
