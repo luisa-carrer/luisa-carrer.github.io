@@ -18,7 +18,9 @@ email: 'luisa.carrer@tse-fr.eu'
 description: "I am Luisa Carrer, a PhD student at Toulouse School of Economics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/jamigibbs/phantom" # "https://luisa-carrer.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-
+#twitter_username: 'jamigibbs'
+#github_username: 'jamigibbs'
+#medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
