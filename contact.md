@@ -19,6 +19,6 @@ Toulouse School of Economics
 <p>&nbsp;
 </p>
 
-E-mail: <a href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu</a>
+E-mail: <a href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a>
 
 Web: [luisa-carrer.github.io](https://luisa-carrer.github.io).
