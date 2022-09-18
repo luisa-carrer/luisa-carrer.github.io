@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+<head>
+    <!-- Favicons -->
+  <link rel="icon" type="image/png" href="favicon.png">
+ </head>
+ 
 # Research
 ---
 
