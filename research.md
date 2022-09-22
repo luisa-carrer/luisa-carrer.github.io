@@ -20,7 +20,7 @@ permalink: /research/
 </p>
 
 <h1 style="font-size:18px;"><em>Gender Culture and Parental Leave: Evidence from Municipal-Level Facebook Data</em></h1>
-<p style="font-size:12px;">joint with Lorenzo de Masi (Universidad Carlos III)</p>
+<p style="font-size:12px;">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
 ---
 
@@ -30,7 +30,7 @@ permalink: /research/
 </p>
 
 <h1 style="font-size:18px;"><em>A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</em></h1>
-<p style="font-size:12px;">joint with Sébastien Montpetit (Toulouse School of Economics) and Pierre-Loup Beauregard (University of British Columbia)</p>
+<p style="font-size:12px;">joint with <a href="https://www.sebastienmontpetit.com/en/"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a href="https://sites.google.com/view/pierreloupbeauregard/"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</p>
 
 ---
 <p style="font-size:12px;"><em>While numerous studies examine the causal impacts of changes in family policy, their overall welfare impacts for the economy at large are still poorly understood. In this paper, we wish to study the welfare effect of the most ambitious childcare reform in North America, which introduced universal daycare subsidies in Québec in 1997. To this end, we combine reduced-form and structural approaches to estimate the welfare impact of the policy with minimal structure. First, we will estimate the program's net cost for the government budget by leveraging evidence on the positive short- and long-term effects on maternal labor supply and children's education and labor market outcomes. Our preliminary results point to positive and large impacts on educational attainment of treated children as well as on labor-market outcomes of female children as they age. Using novel data on regional availability of daycare centers within Québec, we will also investigate treatment effect heterogeneity along this margin. Second, we will measure the program's value for recipients by estimating a structural model of household labor supply and child care arrangements for which we use the reduced-form evidence for validation. This allows us to both leverage the gains of the &#8220;credibility revolution&#8221; for the goal of welfare analysis, in the spirit of a sufficient statistics approach, and account for (possibly non-pecuniary) benefits for recipients, stemming from such a large policy change.</em></p>
