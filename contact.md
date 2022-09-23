@@ -5,7 +5,6 @@ permalink: /contact/
 ---
 
 # <center> Contact </center>
----
 
 <p>&nbsp;
 </p>
