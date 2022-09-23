@@ -6,7 +6,6 @@ permalink: /cv/
 
 
 # <center> CV </center>
----
 
 <p>&nbsp;
 </p>
