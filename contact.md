@@ -10,7 +10,7 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<p style="font-size:12px;font-family: Times New Roman">
+<p style="font-size:14px;font-family: Times New Roman">
   
 Toulouse School of Economics
 
