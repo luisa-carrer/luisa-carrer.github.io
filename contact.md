@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+# <center> Contact </center>
 ---
 
 <p>&nbsp;
