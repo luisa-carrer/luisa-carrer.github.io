@@ -6,7 +6,7 @@ permalink: /cv/
 
 <head>
 <!-- Favicons -->
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/png" href="favicon.png"  />
 </head>
 
 # <center> CV </center>
