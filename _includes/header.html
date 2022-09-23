@@ -46,8 +46,8 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               {% for item in site.nav_item %}
-                <li style="color:blue;">
-                  <a href="{{ item.url }}">{{ item.text }}</a>
+                <li>
+                  <a href="{{ item.url }}" style="color:blue;">{{ item.text }}</a>
                 </li>
               {% endfor %}
             </ul>
