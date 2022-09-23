@@ -10,7 +10,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 style="font-size:18px;"><em>The Effectiveness of Parental Leaves when Social Norms Matter</em></h1>
+<h1 style="font-size:16px;">The Effectiveness of Parental Leaves when Social Norms Matter</h1>
 
 ---
 
@@ -19,7 +19,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 style="font-size:18px;"><em>Gender Culture and Parental Leave: Evidence from Municipal-Level Facebook Data</em></h1>
+<h1 style="font-size:16px;">Gender Culture and Parental Leave: Evidence from Municipal-Level Facebook Data</h1>
 <p style="font-size:12px;">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
 ---
@@ -29,7 +29,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 style="font-size:18px;"><em>A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</em></h1>
+<h1 style="font-size:16px;">A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</h1>
 <p style="font-size:12px;">joint with <a href="https://www.sebastienmontpetit.com/en/"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a href="https://sites.google.com/view/pierreloupbeauregard/"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</p>
 
 ---
@@ -42,9 +42,9 @@ permalink: /research/
 
 ---
 
-<h1 style="font-size:18px;"><em>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</em></h1>
+<h1 style="font-size:16px;">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</h1>
 
-<h1 style="font-size:18px;"><em>The Causal Effects of Rent Control: Evidence from Spain</em></h1>
+<h1 style="font-size:16px;">The Causal Effects of Rent Control: Evidence from Spain</h1>
 <p style="font-size:12px;">joint with Michael Abel (ESCP) and Jaime Luque (ESCP)</p>
 
 
