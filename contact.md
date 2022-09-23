@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
+<head>
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+
 # <center> Contact </center>
 
 <p>&nbsp;
