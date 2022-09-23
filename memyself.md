@@ -5,8 +5,7 @@ permalink: /memyself/
 ---
 
 
-# <center> Me & Myself </center> 
----
+# <center> Me & Myself </center>
 
 <p>&nbsp;
 </p>
