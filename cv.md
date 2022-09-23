@@ -6,7 +6,9 @@ permalink: /cv/
 
 # <center> CV </center>
 
+<head>
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
 
 <p>&nbsp;
 </p>
