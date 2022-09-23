@@ -45,6 +45,6 @@ permalink: /research/
 <h1 style="font-size:16px;">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</h1>
 
 <h1 style="font-size:16px;">The Causal Effects of Rent Control: Evidence from Spain</h1>
-<p style="font-size:12px;">joint with Michael Abel (ESCP) and Jaime Luque (ESCP)</p>
+<p style="font-size:12px;">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
 
 
