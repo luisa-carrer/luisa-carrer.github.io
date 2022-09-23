@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-# Research
----
+# <center> Research </center>
+
 
 <p>&nbsp;
 </p>
