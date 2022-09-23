@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-# CV
+# <center> CV </center>
 ---
 
 <p>&nbsp;
