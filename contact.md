@@ -21,5 +21,5 @@ permalink: /contact/
 
 <p style="font-size:14px;font-family: Times New Roman"> E-mail: <a href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a> </p>
 
-<p style="font-size:14px;font-family: Times New Roman"> Web: <a href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u></a> </p>
+<p style="font-size:14px;font-family: Times New Roman"> Web: <a href="https://luisa-carrer.github.io">luisa-carrer.github.io</a> </p>
 
