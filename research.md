@@ -38,7 +38,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-### Other work in progress
+### Other research in progress
 
 ---
 
