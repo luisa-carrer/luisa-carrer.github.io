@@ -16,7 +16,7 @@ permalink: /research/
 
 <h1>
   <span style="font-size:16px;font-family: Times New Roman">The Effectiveness of Parental Leaves when Social Norms Matter</span>
-  <span style="font-size:12px;font-family: Times New Roman"><em> [Draft available upon request] </em></span>
+  <span style="font-size:12px;font-family: Times New Roman;font-weight:normal"><em> [Draft available upon request] </em></span>
 </h1>
 
 ---
