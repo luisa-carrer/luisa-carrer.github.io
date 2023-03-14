@@ -10,19 +10,6 @@ permalink: /research/
 
 # <center> Research </center>
 
-
-<p>&nbsp;
-</p>
-
-<h1>
-  <span style="font-size:16px;font-family: Times New Roman">The Effectiveness of Parental Leaves when Social Norms Matter</span>
-  <span style="font-size:12px;font-family: Times New Roman;font-weight:normal"><em> [<a href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>Draft</u></a>] </em></span>
-</h1>
-
----
-
-<p style="font-size:12px;font-family: Times New Roman"><u>Abstract</u>: <em>Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake.</em></p>
-
 <p>&nbsp;
 </p>
 
@@ -41,6 +28,41 @@ permalink: /research/
 
 <p>&nbsp;
 </p>
+
+
+
+<h1>
+  <span style="font-size:16px;font-family: Times New Roman">The Effectiveness of Parental Leaves when Social Norms Matter</span>
+  <span style="font-size:12px;font-family: Times New Roman;font-weight:normal"><em> [<a href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>Draft</u></a>] </em></span>
+</h1>
+
+---
+
+<p style="font-size:12px;font-family: Times New Roman"><u>Abstract</u>: <em>Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake.</em></p>
+
+<p>&nbsp;
+</p>
+
+
+
+<h1>
+  <span style="font-size:16px;font-family: Times New Roman">Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook
+Data  </span>
+  <span style="font-size:12px;font-family: Times New Roman;font-weight:normal"><em> [<a href="https://drive.google.com/file/d/1K1q0fNVUba0wreW7NGk60gRvWS1wKWJN/view?usp=share_link"><u>Draft</u></a>] </em></span>
+</h1>
+<p style="font-size:12px;font-family: Times New Roman">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
+
+---
+
+<p style="font-size:12px;font-family: Times New Roman"><u>Abstract</u>: <em>In this paper, we empirically examine the role of gender culture in parental leave decisions. To this end, we leverage our Gender Norms Index (GNI) measuring municipal-level gender attitudes in Italy based on data from Facebook. Intuitively, our methodology generates variation in attitudes within narrowly defined geographical areas, thus allowing to compare individuals facing the same institutional and
+labor market environments. Additionally, rich administrative data would enable to control for several worker and firm characteristics that affect individual participation to leave programs. We expect to find that living in more gender conservative areas induces female (male) workers to ask for relatively longer (shorter) leaves. We then ask whether such an effect is stronger for women at the top of the wage distribution, since taking a greater share of leave might help them alleviate their sense of &#8216;guilt&#8217; for having a career. Because the loss of work experience is particularly costly for them, long periods of leave may ultimately lead to large career costs. As a result, rather than facilitating gender convergence in the labor market, standard leave entitlements might in fact backfire, when interacting with slow-moving gendered culture.</em></p>
+
+<p>&nbsp;
+</p>
+
+
+
+
 
 <h1 style="font-size:16px;font-family: Times New Roman">A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</h1>
 <p style="font-size:12px;font-family: Times New Roman">joint with <a href="https://www.sebastienmontpetit.com/en/"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a href="https://sites.google.com/view/pierreloupbeauregard/"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</p>
