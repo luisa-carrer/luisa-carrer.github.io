@@ -81,7 +81,7 @@ two biases, stemming from the omission of non-pecuniary benefits and re-optimiza
 
 <h1 style="font-size:16px;font-family: Times New Roman">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</h1>
 
-<h1 style="font-size:16px;font-family: Times New Roman">The Causal Effects of Rent Control: Evidence from Spain</h1>
+<h1 style="font-size:16px;font-family: Times New Roman">On the Effects of Rent Control: Evidence from Catalonia</h1>
 <p style="font-size:12px;font-family: Times New Roman">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
 
 
