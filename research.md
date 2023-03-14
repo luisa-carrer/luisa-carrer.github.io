@@ -30,9 +30,10 @@ permalink: /research/
 
 
 
+
+
 <h1>
-  <span style="font-size:16px;font-family: Times New Roman">The Effectiveness of Parental Leaves when Social Norms Matter</span>
-  <span style="font-size:12px;font-family: Times New Roman;font-weight:normal"><em> [<a href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>Draft</u></a>] </em></span>
+  <span style="font-size:16px;font-family: Times New Roman"> <a href="https://drive.google.com/file/d/1K1q0fNVUba0wreW7NGk60gRvWS1wKWJN/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a></span>
 </h1>
 
 ---
