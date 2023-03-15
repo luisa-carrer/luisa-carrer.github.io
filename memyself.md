@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: memyself
+title: Me & Myself
 permalink: /memyself/
 ---
 
