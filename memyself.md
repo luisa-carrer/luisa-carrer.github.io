@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: <title> Me & Myself </title>
+title: "Me & Myself"
 permalink: /memyself/
 ---
 
