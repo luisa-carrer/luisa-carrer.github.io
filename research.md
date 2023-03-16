@@ -22,7 +22,7 @@ permalink: /research/
 
 
 
-<h1>
+<h1 class="line-spacing">
   <span style="font-size:16px;font-family: Times New Roman"> <a style="color:Black" href="https://drive.google.com/file/d/1K1q0fNVUba0wreW7NGk60gRvWS1wKWJN/view?usp=share_link"><u>Municipal-Level Gender Norms: Measurement and Effects on Women in Politics</u></a></span>
 </h1>
 <p class="line-spacing" style="font-size:13px;font-family: Times New Roman">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
@@ -51,7 +51,7 @@ permalink: /research/
 
 
 
-<h1>
+<h1 class="line-spacing">
   <span style="font-size:16px;font-family: Times New Roman">Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook
 Data  </span>
 </h1>
@@ -69,7 +69,7 @@ labor market environments. Additionally, rich administrative data would enable t
 
 
 
-<h1 style="font-size:16px;font-family: Times New Roman">A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</h1>
+<h1 class="line-spacing" style="font-size:16px;font-family: Times New Roman">A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</h1>
 <p class="line-spacing" style="font-size:13px;font-family: Times New Roman">joint with <a href="https://www.sebastienmontpetit.com/en/"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a href="https://sites.google.com/view/pierreloupbeauregard/"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</p>
 
 ---
@@ -87,7 +87,7 @@ two biases, stemming from the omission of non-pecuniary benefits and re-optimiza
 
 <h1 style="font-size:16px;font-family: Times New Roman">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</h1>
 
-<h1 style="font-size:16px;font-family: Times New Roman">On the Effects of Rent Control: Evidence from Catalonia</h1>
-<p style="font-size:13px;font-family: Times New Roman">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
+<h1 class="line-spacing" style="font-size:16px;font-family: Times New Roman">On the Effects of Rent Control: Evidence from Catalonia</h1>
+<p class="line-spacing" style="font-size:13px;font-family: Times New Roman">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
 
 
