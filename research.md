@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+<style>
+  .line-spacing {
+    margin-bottom: 0.2em; /* adjust this value as needed */
+  }
+</style>
+
 <head>
 <link rel="shortcut icon" type="image/png" href="/favicon2.png">
 </head>
@@ -31,12 +37,10 @@ permalink: /research/
 
 
 
-
-<h1>
-  <span style="font-size:16px;color:Black;font-family: Times New Roman"> <a style="color:Black"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a></span>
+<h1 class="line-spacing">
+  <span style="font-size:16px;color:Black;font-family: Times New Roman"><a style="color:Black"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a></span>
 </h1>
-<p style="font-size:13px;font-family: Times New Roman"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
-
+<p class="line-spacing" style="font-size:13px;font-family: Times New Roman"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
 
 ---
 
