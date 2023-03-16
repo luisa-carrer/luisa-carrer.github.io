@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
   .line-spacing {
-    margin-bottom: 0.2em; /* adjust this value as needed */
+    margin-bottom: -0.5em; /* adjust this value as needed */
   }
 </style>
 
