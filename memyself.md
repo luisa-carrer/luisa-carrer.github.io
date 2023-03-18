@@ -14,7 +14,7 @@ permalink: /memyself/
 </p>
 
 <p style="font-size:16px;font-family: Times New Roman">
-Some memories from "the other part of me"...
+  <center> ... some memories from "<em>the other part of me</em>" ... </center>
   </p>
 
 <p>&nbsp;
