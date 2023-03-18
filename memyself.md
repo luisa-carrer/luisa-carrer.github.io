@@ -13,7 +13,7 @@ permalink: /memyself/
 <p>&nbsp;
 </p>
 
-<p style="font-size:14px;font-family: Times New Roman">
+<p style="font-size:16px;font-family: Times New Roman">
 Some memories from "the other part of me"...
   </p>
 
