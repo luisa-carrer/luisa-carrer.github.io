@@ -19,12 +19,9 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-
-
-
 <h1 class="line-spacing">
-    <span style="font-size:16px;font-family: Times New Roman">Municipal-Level Gender Norms: Measurement and Effects on Women in Politics </span>
-    <span style="font-size:13px;font-family: Times New Roman"> <em> [Draft available upon request] </em> </span>
+    style="font-size:16px;font-family: Times New Roman">Municipal-Level Gender Norms: Measurement and Effects on Women in Politics
+    style="font-size:13px;font-family: Times New Roman"> <em> [Draft available upon request] </em>
 </h1>
 <p class="line-spacing" style="font-size:13px;font-family: Times New Roman">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
@@ -39,7 +36,7 @@ permalink: /research/
 
 
 <h1 class="line-spacing">
-  <span style="font-size:16px;color:Black;font-family: Times New Roman"><a style="color:Black"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a></span>
+  style="font-size:16px;color:Black;font-family: Times New Roman"><a style="color:Black"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a>
 </h1>
 <p class="line-spacing" style="font-size:13px;font-family: Times New Roman"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
 
@@ -53,8 +50,8 @@ permalink: /research/
 
 
 <h1 class="line-spacing">
-  <span style="font-size:16px;font-family: Times New Roman">Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook
-Data  </span>
+  style="font-size:16px;font-family: Times New Roman">Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook
+Data
 </h1>
 <p class="line-spacing" style="font-size:13px;font-family: Times New Roman">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
