@@ -229,7 +229,8 @@ button.btn, input.btn {
     top: 1.35em;
     width: 3em;
     height: 3px;
-    background-color: #ECEFF1;
+    background-color: white; 
+	/*#ECEFF1;*/
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -280,7 +281,8 @@ button.btn, input.btn {
         left: 0;
         width: 3em;
         height: 3px;
-        background-color: #ECEFF1;
+	background-color: white; 
+	/*#ECEFF1;*/
       }
     }
     .excerpt {
@@ -299,7 +301,8 @@ button.btn, input.btn {
       margin: 2em 0;
       span {
         color: #9eb1bd;
-        background-color: #ECEFF1;
+        background-color: white; 
+	/*#ECEFF1;*/
         padding: 0.5em 1.5em;
         display: inline-block;
         margin-bottom: 0.5em;
@@ -307,7 +310,8 @@ button.btn, input.btn {
     }
     .categories span {
       color: #b9b1ad;
-      background-color: #EFEBE9;
+      background-color: white;
+	/*#EFEBE9;*/
     }
   }
 }
