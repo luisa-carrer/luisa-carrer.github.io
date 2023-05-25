@@ -15,16 +15,11 @@
 
 @import '../_sass/bootstrap';
 @import '../_sass/mixins';
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); /*added*/
 
 $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
-%lato {
-  font-family: 'Lato', sans-serif;
-}
-
-/*%opensans { font-family: 'Open Sans', sans-serif; }*/
+%opensans { font-family: 'Open Sans', sans-serif; }
 /*%merriweather { font-family: 'Merriweather', serif; }*/
 
 /*--------------------------------------------------------------
