@@ -33,7 +33,8 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  background-color: white; 
+	/*#e9edf0;*/
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
