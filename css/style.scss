@@ -25,6 +25,11 @@ $secondary: #FF7B7B;
 
 /*--------------------------------------------------------------
 	1.0 Defaults
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
 --------------------------------------------------------------*/
 @media (max-width: 767px) {
   .hero-container {
@@ -43,6 +48,8 @@ $secondary: #FF7B7B;
     margin-bottom: 10px;
   }
 }
+
+
 
 
 
