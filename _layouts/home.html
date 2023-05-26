@@ -37,4 +37,10 @@
 
 {% include footer.html %}
 
-<script src="script.js"></script>
+{% if site.enable_footer == true %}
+<footer>
+  <!-- Footer content here -->
+
+  <script src="{{ "/script.js" | prepend: site.baseurl }}"></script>
+</footer>
+{% endif %}
