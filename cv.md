@@ -13,7 +13,7 @@ permalink: /cv/
 <p>&nbsp;
 </p>
 
-<p style="font-size:14px;font-family: Times New Roman">
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">
 You can find my <i>curriculum vitae</i> <a href="https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link"><u>here</u></a>.
   </p>
 
