@@ -13,15 +13,15 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<p style="font-size:14px;font-family: Open Sans, sans-serif"> Toulouse School of Economics </p>
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </p>
 
-<p style="font-size:14px;font-family: Open Sans, sans-serif"> 1 Esplanade de l'Université </p>
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> 1 Esplanade de l'Université </p>
 
-<p style="font-size:14px;font-family: Open Sans, sans-serif">  31080, Toulouse (France) </p>
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  31080, Toulouse (France) </p>
 
 <p>&nbsp;
 </p>
 
-<p style="font-size:14px;font-family: Open Sans, sans-serif"> E-mail: <a href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a> </p>
-<p style="font-size:14px;font-family: Open Sans, sans-serif"> Web: <a href="https://luisa-carrer.github.io">luisa-carrer.github.io</a> </p>
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> E-mail: <a href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a> </p>
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Web: <a href="https://luisa-carrer.github.io">luisa-carrer.github.io</a> </p>
 
