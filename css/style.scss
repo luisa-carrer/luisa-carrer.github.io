@@ -31,15 +31,14 @@ $secondary: #FF7B7B;
     text-align: center;
   }
 
-  .hero-content-mobile > div {
-    width: 100%;
+  .hero-content-mobile-image img {
+    width: 80%;
     display: block;
+    margin: 0 auto;
   }
 
-  .hero-content-mobile img {
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
+  .hero-content-mobile-text {
+    text-align: center;
   }
 }
 
