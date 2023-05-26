@@ -26,12 +26,26 @@ $secondary: #FF7B7B;
 /*--------------------------------------------------------------
 	1.0 Defaults
 --------------------------------------------------------------*/
+@media (max-width: 767px) {
+  .hero-content-mobile {
+    text-align: center;
+  }
 
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
+  .hero-content-mobile > div {
+    width: 100%;
+    display: block;
+  }
+
+  .hero-content-mobile img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
   }
 }
+
+
+
+
 
 body {
   background-color: white; 
