@@ -111,8 +111,16 @@ button.btn, input.btn {
   }
 }
 
-.navbar {
-  background-color: #F0F8FF; /* Set the desired background color */
+/* CSS for the initial state of the navigation bar */
+.navbar-initial {
+  background-color: white;
+  /* Other styles for the initial state */
+}
+
+/* CSS for the scrolling state of the navigation bar */
+.navbar-scroll {
+  background-color: #F0F8FF; /* Very light blue color */
+  /* Other styles for the scrolling state */
 }
 
 /*--------------------------------------------------------------
