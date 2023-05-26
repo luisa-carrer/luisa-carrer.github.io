@@ -56,7 +56,7 @@ p {
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
-    color: #33adff; /*#FF5B33; This is the color that appears when you move the mouse on a word with a link*/
+    color: #081b88; /*#FF5B33; This is the color that appears when you move the mouse on a word with a link*/
     text-decoration: none;
   }
 }
