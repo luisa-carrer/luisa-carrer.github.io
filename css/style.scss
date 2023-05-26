@@ -27,18 +27,20 @@ $secondary: #FF7B7B;
 	1.0 Defaults
 --------------------------------------------------------------*/
 @media (max-width: 767px) {
-  .hero-content-mobile {
+  .hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-content {
+    order: 2;
     text-align: center;
   }
 
-  .hero-content-mobile-image img {
-    width: 80%;
-    display: block;
-    margin: 0 auto;
-  }
-
-  .hero-content-mobile-text {
-    text-align: center;
+  .hero-content img {
+    order: 1;
+    margin-bottom: 10px;
   }
 }
 
