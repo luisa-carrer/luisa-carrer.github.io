@@ -143,20 +143,20 @@ button.btn, input.btn {
 }
 
 .nav-link {
-  color: black;
+  color: #d63722; /* Rosso */
 }
 
 .nav-item.active , .nav-item.active a {
   background-color: white;
   border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
-  color:#081b88;
+  color:#07e065;  /* Verde */
   font-family: 'Source Sans Pro';
   font-size:14px;
   font-weight: bold;
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-  color: #4ba67f;
+  color: #ede611; /* Giallo */
 }
 
 /*--------------------------------------------------------------
