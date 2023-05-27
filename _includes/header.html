@@ -34,16 +34,10 @@
 	
 	
 	
-  <!-- Styles -->
+   <!-- Styles -->
   <link rel="stylesheet" href="{{ "/css/animate.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
-  <style>
-    /* Additional inline styles for active page */
-    .navbar .nav > li > a.active {
-      color: $nav-text-color-active;
-      font-weight: $nav-text-weight-active;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
 
@@ -64,7 +58,7 @@
             <ul class="nav navbar-nav navbar-right">
               {% for item in site.nav_item %}
                 <li>
-                  <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">{{ item.text }}</a>
+                  <a href="{{ item.url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.text }}</a>
                 </li>
               {% endfor %}
             </ul>
