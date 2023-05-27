@@ -163,6 +163,7 @@ $nav-text-weight-active: bold;
       a {
         text-decoration: none;
         color: $nav-text-color;
+        font-weight: normal;
 
         &:hover,
         &:focus {
@@ -170,7 +171,8 @@ $nav-text-weight-active: bold;
           font-weight: $nav-text-weight-hover;
         }
 
-        &.active {
+        &.active,
+        &[aria-current="page"] {
           color: $nav-text-color-active;
           font-weight: $nav-text-weight-active;
         }
