@@ -142,11 +142,12 @@ button.btn, input.btn {
   font-size:14px;
 }
 
-
-
-.navbar-nav > .active > a {
+.navbar:active {
   background-color: white;
-  color: #081b88;
+  border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
+  color:#081b88;
+  font-family: 'Source Sans Pro';
+  font-size:14px;
   font-weight: bold;
 }
 
