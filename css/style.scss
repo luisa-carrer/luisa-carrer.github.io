@@ -134,19 +134,11 @@ button.btn, input.btn {
   }
 }
 
-// Variables
-$nav-bg-color: white;
-$nav-text-color: black;
-$nav-text-color-hover: blue;
-$nav-text-weight-hover: bold;
-$nav-text-color-active: blue;
-$nav-text-weight-active: bold;
-
 // Navigation bar styles
 .navbar {
-  background-color: $nav-bg-color;
+  background-color: white;
   border-bottom: 1px solid #081b88;
-  color: $nav-text-color;
+  color: black;
   font-family: 'Source Sans Pro';
   font-size: 14px;
 
@@ -161,24 +153,15 @@ $nav-text-weight-active: bold;
 
       a {
         text-decoration: none;
-        color: $nav-text-color;
         font-weight: normal;
 
-        &:hover,
-        &:focus {
-          color: $nav-text-color-hover;
-          font-weight: $nav-text-weight-hover;
-        }
-
-        &.active {
-          color: $nav-text-color-active;
-          font-weight: $nav-text-weight-active;
+        &:hover {
+          font-weight: bold;
         }
       }
     }
   }
 }
-
 
 /*--------------------------------------------------------------
 	2.0 Home Hero
