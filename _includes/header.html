@@ -45,13 +45,13 @@
               <a class="navbar-brand" href="/" style="color:#081b88;font-family: 'Source Sans Pro';font-size:20px; font-stretch: ultra-condensed">{{ site.admin_name }}</a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-right">
-              {% for item in site.nav_item %}
-               <li> 
-               <a href="{{ item.url }}" style="color:black;font-family: 'Source Sans Pro';font-size:14px">{{ item.text }}</a>
-                </li>
-              {% endfor %}
-            </ul>
+                    <ul class="nav navbar-nav navbar-right">
+		                  {% for item in site.nav_item %}
+                      <li class="nav-item active">
+                      <a class="nav-link" href="{{ item.url }}" >{{ item.text }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
           </div>
       </div>
   </nav>
