@@ -142,13 +142,21 @@ button.btn, input.btn {
   font-size:14px;
 }
 
-.navbar:active {
+.nav-link {
+  color: black;
+}
+
+.nav-item.active , .nav-item.active a {
   background-color: white;
   border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
   color:#081b88;
   font-family: 'Source Sans Pro';
   font-size:14px;
   font-weight: bold;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: #4ba67f;
 }
 
 /*--------------------------------------------------------------
