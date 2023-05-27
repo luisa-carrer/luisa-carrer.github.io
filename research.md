@@ -19,9 +19,9 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 class="line-spacing" style="font-size:17px;font-family: 'Source Sans Pro', sans-serif;color: #081b88">
+<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88;">
   Municipal-Level Gender Norms: Measurement and Effects on Women in Politics
-  <span style="font-size: 14px;font-family: 'Source Sans Pro', sans-serif"; color: Black><em>[Draft available upon request]</em></span>
+  <span style="font-size: 14px; font-family: 'Source Sans Pro', sans-serif; color: black;"><em>[Draft available upon request]</em></span>
 </h1>
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
