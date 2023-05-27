@@ -19,7 +19,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 class="line-spacing" style="font-size:17px;font-family: 'Source Sans Pro', sans-serif;color=#081b88">
+<h1 class="line-spacing" style="font-size:17px;font-family: 'Source Sans Pro', sans-serif;color: #081b88">
   Municipal-Level Gender Norms: Measurement and Effects on Women in Politics
   <span style="font-size: 14px;font-family: 'Source Sans Pro', sans-serif"><em>[Draft available upon request]</em></span>
 </h1>
