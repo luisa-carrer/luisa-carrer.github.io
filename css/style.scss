@@ -134,7 +134,6 @@ button.btn, input.btn {
   }
 }
 
-
 // Variables
 $nav-bg-color: white;
 $nav-text-color: black;
@@ -171,8 +170,7 @@ $nav-text-weight-active: bold;
           font-weight: $nav-text-weight-hover;
         }
 
-        &.active,
-        &[aria-current="page"] {
+        &.active {
           color: $nav-text-color-active;
           font-weight: $nav-text-weight-active;
         }
@@ -180,7 +178,6 @@ $nav-text-weight-active: bold;
     }
   }
 }
-
 
 
 /*--------------------------------------------------------------
