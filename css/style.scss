@@ -142,10 +142,6 @@ button.btn, input.btn {
   font-size:14px;
 }
 
-.nav-link {
-  color: #d63722; /* Rosso */
-}
-
 .nav-item.active , .nav-item.active a {
   background-color: white;
   border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
@@ -156,7 +152,7 @@ button.btn, input.btn {
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-  color: #ede611; /* Giallo */
+  color: #d63722; /* Rosso */
 }
 
 /*--------------------------------------------------------------
