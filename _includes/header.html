@@ -47,7 +47,7 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               {% for item in site.nav_item %}
-                <li>
+                <li>  {% if page.url == item.url %}class="active"{% endif %}>
                   <a href="{{ item.url }}" style="color:black;font-family: font-family: 'Source Sans Pro';font-size:14px">{{ item.text }}</a>
                 </li>
               {% endfor %}
