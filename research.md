@@ -36,9 +36,9 @@ permalink: /research/
 
 
 <h1 class="line-spacing"
-  style="font-size:17px;color:Black;font-family: 'Source Sans Pro', sans-serif"><a style="color:Black"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a>
+  style="font-size:17px;color:Black;font-family: 'Source Sans Pro', sans-serif"><a style="color: #081b88"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link"><u>The Effectiveness of Parental Leaves when Social Norms Matter</u></a>
 </h1>
-<p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
+<p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
 
 ---
 
