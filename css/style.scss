@@ -140,8 +140,13 @@ button.btn, input.btn {
 }
 
 .navbar-nav > .active > a {
+  background-color: white;
   color:  #081b88;
   font-weight: bold !important;
+}
+
+.navbar-nav > .active > a {
+  background-color: #111;
 }
 
 /*--------------------------------------------------------------
