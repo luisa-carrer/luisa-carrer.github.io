@@ -47,10 +47,9 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               {% for item in site.nav_item %}
-                {% assign current_url = page.url | prepend: site.baseurl %}
-                <li {% if current_url == item.url %}class="active"{% endif %}>
-                <a href="{{ item.url }}" style="color:black;font-family: 'Source Sans Pro';font-size:14px">{{ item.text }}</a>
-                </li>  
+               <li> 
+               <a href="{{ item.url }}" style="color:black;font-family: 'Source Sans Pro';font-size:14px">{{ item.text }}</a>
+                </li>
               {% endfor %}
             </ul>
           </div>
