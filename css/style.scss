@@ -134,33 +134,14 @@ button.btn, input.btn {
   }
 }
 
-// Navigation bar styles
 .navbar {
   background-color: white;
-  border-bottom: 1px solid #081b88;
-  color: black !important;
-  font-family: 'Source Sans Pro';
-  font-size: 14px;
+  border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
+}
 
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-
-    li {
-      display: inline-block;
-      margin-right: 10px;
-
-      a {
-        text-decoration: none;
-        font-weight: normal;
-
-        &:hover {
-          font-weight: bold;
-        }
-      }
-    }
-  }
+.navbar .nav-item.hover {
+  color: black;
+  font-weight: bold !important;
 }
 
 /*--------------------------------------------------------------
