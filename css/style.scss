@@ -134,26 +134,28 @@ button.btn, input.btn {
   }
 }
 
+
 .navbar {
   background-color: white;
-  border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
-  color:#ede611; /* Giallo */
+  border-bottom: 1px solid #081b88;
+  color: black;
   font-family: 'Source Sans Pro';
-  font-size:14px;
+  font-size: 14px;
 }
 
-.navbar-nav .nav-item:active {
+.navbar-nav .nav-item.active {
   background-color: white;
-  border-bottom: 1px solid #081b88; /* Set the color and thickness of the horizontal line */
-  color:#07e065;  /* Verde */
+  border-bottom: 1px solid #081b88;
+  color: #081b88;
   font-family: 'Source Sans Pro';
-  font-size:14px;
+  font-size: 14px;
   font-weight: bold;
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-  color: #d63722; /* Rosso */
+  color: #d63722;
 }
+
 
 /*--------------------------------------------------------------
 	2.0 Home Hero
