@@ -58,6 +58,8 @@ $secondary: #FF7B7B;
 body {
   background-color: white; 
 	/*#e9edf0;*/
+  padding-left: 20px; /* Adjust the padding value to decrease the left spacing */
+  padding-right: 20px; /* Adjust the padding value to decrease the right spacing */
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
