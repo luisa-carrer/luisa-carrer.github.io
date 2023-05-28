@@ -83,26 +83,3 @@ Data
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
 
 
-
-
-
-
-<script>
-  // Get the abstract link element
-  var abstractLink = document.getElementById("abstract-link");
-
-  // Get the abstract content element
-  var abstractContent = document.getElementById("abstract-content");
-
-  // Add a click event listener to the abstract link
-  abstractLink.addEventListener("click", function(e) {
-    e.preventDefault(); // Prevent the default link behavior
-
-    // Toggle the display of the abstract content
-    if (abstractContent.style.display === "none") {
-      abstractContent.style.display = "block";
-    } else {
-      abstractContent.style.display = "none";
-    }
-  });
-</script>
