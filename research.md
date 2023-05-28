@@ -74,7 +74,7 @@ two biases, stemming from the omission of non-pecuniary benefits and re-optimiza
 
 ---
   
-### Other research in progress
+### Work in progress
 
 
 <h1 
