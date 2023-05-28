@@ -26,7 +26,7 @@ permalink: /research/
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black"><em>[Draft available upon request]</em></p>
 
 <p style="font-size: 14px; font-family: 'Source Sans Pro', sans-serif;">
-  <u><a href="#" id="abstract-link">Abstract</a></u>
+  <u><a href="#" id="abstract-link"><em>Abstract</em></a></u>
 </p>
 
 <div id="abstract-content" style="display: none;">
@@ -44,7 +44,7 @@ permalink: /research/
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black"><em>Awarded the Best paper award (third prize) at the Augustin Cournot Doctoral Days (2021)</em></p>
 
 <p style="font-size: 14px; font-family: 'Source Sans Pro', sans-serif;">
-  <u><a href="#" id="abstract-link">Abstract</a></u>
+  <u><a href="#" id="abstract-link"><em>Abstract</em></a></u>
 </p>
 
 <div id="abstract-content" style="display: none;">
@@ -62,7 +62,7 @@ Data
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">joint with <a href="http://economics.uc3m.es/personal/de-massi/"><u>Lorenzo de Masi</u></a> (Universidad Carlos III)</p>
 
 <p style="font-size: 14px; font-family: 'Source Sans Pro', sans-serif;">
-  <u><a href="#" id="abstract-link">Abstract</a></u>
+  <u><a href="#" id="abstract-link"><em>Abstract</em></a></u>
 </p>
 
 <div id="abstract-content" style="display: none;">
@@ -80,7 +80,7 @@ Data
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">joint with <a href="https://www.sebastienmontpetit.com/en/"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a href="https://sites.google.com/view/pierreloupbeauregard/"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</p>
 
 <p style="font-size: 14px; font-family: 'Source Sans Pro', sans-serif;">
-  <u><a href="#" id="abstract-link">Abstract</a></u>
+  <u><a href="#" id="abstract-link"><em>Abstract</em></a></u>
 </p>
 
 <div id="abstract-content" style="display: none;">
