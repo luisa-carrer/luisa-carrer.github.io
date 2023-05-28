@@ -419,6 +419,7 @@
       &:focus {
         color: $navbar-default-link-hover-color;
         background-color: $navbar-default-link-hover-bg;
+        font-weight: bold; /* added */
       }
     }
     > .active > a {
@@ -427,6 +428,7 @@
       &:focus {
         color: $navbar-default-link-active-color;
         background-color: $navbar-default-link-active-bg;
+        font-weight: bold; /* added */
       }
     }
     > .disabled > a {
@@ -476,6 +478,7 @@
           &:focus {
             color: $navbar-default-link-hover-color;
             background-color: $navbar-default-link-hover-bg;
+            font-weight: bold; /* added */
           }
         }
         > .active > a {
@@ -507,6 +510,7 @@
     color: $navbar-default-link-color;
     &:hover {
       color: $navbar-default-link-hover-color;
+      font-weight: bold; /* added */
     }
   }
 
@@ -515,6 +519,7 @@
     &:hover,
     &:focus {
       color: $navbar-default-link-hover-color;
+      font-weight: bold; /* added */
     }
     &[disabled],
     fieldset[disabled] & {
