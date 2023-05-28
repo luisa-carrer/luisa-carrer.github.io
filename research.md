@@ -8,6 +8,9 @@ permalink: /research/
   .line-spacing {
     margin-bottom: 0em; /* custom line spacing */
   }
+  .abstract-content {
+    display: none; /* initially hide the abstract content */
+  }
 </style>
 
 <head>
@@ -27,6 +30,9 @@ permalink: /research/
 
 ---
 
+<button id="abstract-button">Abstract</button> /* for the button */
+
+<div id="abstract-content" class="abstract-content"> /* for the button */
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif"><u>Abstract</u>: In this paper, we exploit the massive amount of information from Facebook to build a measure of gender attitudes in Italy at previously impossible resolution&#8210;the municipal level. We construct our index via a machine learning method to replicate a benchmark region-level measure. Interestingly, we find that most of the variation in our Gender Norms Index (<em>GNI</em>) is across towns within narrowly defined geographical areas, rather than across regions or provinces. In a second step, we show how this local variation in norms can be leveraged for identification purposes. In particular, we use our index to investigate whether these differences in norms carry over to the policy activity of politicians elected in the Italian Parliament. We document that females are more likely to sit in parliamentary committees focused on gender-sensitive matters, labor and social issues, but not if they come from a relatively conservative town. These effects are robust to conditioning on the legislative term and electoral district, suggesting the importance of social norms in shaping legislators' policy activity.</p>
 
 <p>&nbsp;
@@ -94,3 +100,16 @@ two biases, stemming from the omission of non-pecuniary benefits and re-optimiza
 <p class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif">joint with Michael Abel (ESCP) and <a href="https://www.escp.eu/luque-jaime/"><u>Jaime Luque</u></a> (ESCP)</p>
 
 
+<script>
+  // Get the abstract button element
+  var abstractButton = document.getElementById("abstract-button");
+
+  // Get the abstract content element
+  var abstractContent = document.getElementById("abstract-content");
+
+  // Add click event listener to the abstract button
+  abstractButton.addEventListener("click", function() {
+    // Toggle the visibility of the abstract content
+    abstractContent.style.display = abstractContent.style.display === "none" ? "block" : "none";
+  });
+</script>
