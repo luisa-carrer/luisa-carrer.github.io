@@ -69,7 +69,7 @@ Data
 <p>&nbsp;
 </p>
 
-<hr size="200px" />
+<hr size="100px" />
 <p style="font-size:25px;font-family: 'Merriweather', serif; font-weight: 500; margin-top: 0.8em">Work in progress</p>  
 
 <h1 
