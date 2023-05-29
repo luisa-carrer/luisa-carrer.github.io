@@ -70,9 +70,7 @@ Data
 </p>
 
 
----
-
-<p style="font-size:22px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em">Work in progress</p>  
+<p style="font-size:25px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em">Work in progress</p>  
 
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity
