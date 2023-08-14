@@ -63,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @extend %merriweather;
+  @extend %opensans; /* %merriweather */
   font-weight: 500; /* 700 */
   color: #081b88;
 	
