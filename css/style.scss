@@ -34,6 +34,12 @@ $secondary: #FF7B7B;
 
 --------------------------------------------------------------*/
 
+@media (min-width: 770px) {
+  .container {
+    width: 95% !important;
+  }
+}
+
 @media (max-width: 767px) {
   .hero-container {
     display: flex;
