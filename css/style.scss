@@ -32,11 +32,19 @@ $secondary: #FF7B7B;
   }
 }
 
+@media (min-width: 770px) {
+  .container {
+    width: 120% !important;
+  }
+}
 --------------------------------------------------------------*/
 
 @media (min-width: 770px) {
   .container {
-    width: 120% !important;
+    width: auto;
+    max-width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
