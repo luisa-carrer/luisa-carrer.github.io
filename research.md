@@ -20,7 +20,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  Municipal-Level Gender Norms: Measurement and Effects on Women in Politics
+  <u> Municipal-Level Gender Norms: Measurement and Effects on Women in Politics</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">joint with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Carlos III University of Madrid) <em style="color: #081b88">[Draft available upon request]</em></h1>
 
@@ -45,7 +45,7 @@ permalink: /research/
 
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook</u>
 Data
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">joint with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Carlos III University of Madrid)</h1>
@@ -61,7 +61,7 @@ Data
 
 
 <h1 class="line-spacing"
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</h1>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>A Welfare Analysis of Family Policy: Lessons From a Large Childcare Reform in Canada</u></h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">joint with <a style="color: #081b88" href="https://www.sebastienmontpetit.com/en/" target="_blank"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
 
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u><em>Abstract</em></u>: Recent research shows that well-targeted early-childhood interventions and childcare provision yield very large returns. However, implementing these policies on a larger scale can be substantially costly, making it unclear whether the same benefits can be achieved. In this paper, we examine the welfare effect of an ambitious Canadian childcare reform that introduced universal daycare subsidies in Québec in 1997. Using novel data on regional daycare coverage rates within Québec, we revisit the current evidence on this reform. Our findings suggest that the expansion of local childcare capacity is an important channel of positive impact on child care use and maternal labor supply. In our social welfare analysis, we then incorporate fiscal returns from long-term policy impacts on children's earnings. Our results indicate that the negative short-term impacts on children did not translate into negative economic outcomes later in life. Taking into account the impacts on both parents and children rather increases the social desirability of the reform. Focusing solely on labor-market responses of parents would thus underestimate the gains. We then compare a benchmark (sufficient-statistics) estimator, which assumes that the policy change is infinitesimal, to a structural approach, which can account for the fact that the reform is nonmarginal. This comparison allows us to quantify the extent of bias practitioners might be facing when applying sufficient-statistics methods to large policy changes. Our parsimonious model incorporates key trade-offs families face and for which affordable daycare options may provide substantial relief. We illustrate that the sufficient-statistics approach leads to two biases, stemming from the omission of non-pecuniary benefits and re-optimization of behavior by recipients.</p>
@@ -73,11 +73,11 @@ Data
 <p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Other work in progress</p>  
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">&#8216;Mommy Wars&#8217; and Endogenous Gender Identity
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
 </h1>
 
 <h1 class="line-spacing" 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">joint with Michael Abel (ESCP) and <a style="color: #081b88" href="https://www.escp.eu/luque-jaime/" target="_blank"><u>Jaime Luque</u></a> (ESCP)</h1>
 
