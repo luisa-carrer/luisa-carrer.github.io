@@ -28,9 +28,10 @@ $secondary: #FF7B7B;
 	1.0 Defaults
 @media (min-width: 1200px) {
   .container {
-    width: 1200px;
+    width:  95%; /* width: 1200px; */
   }
 }
+
 --------------------------------------------------------------*/
 @media (max-width: 767px) {
   .hero-container {
