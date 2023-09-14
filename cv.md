@@ -17,3 +17,7 @@ permalink: /cv/
 You can find my <i>curriculum vitae</i> <a style="color: #081b88" href="https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link" target="_blank"><u>here</u></a>.
   </p>
 
+<!-- Embedding the CV PDF -->
+<center>
+  <iframe src="https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/preview" width="800px" height="1200px"></iframe>
+</center>
