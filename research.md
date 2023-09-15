@@ -71,13 +71,20 @@ permalink: /research/
 <hr size="100px;" color="#081b88" />
 <p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Other work in progress</p>  
 
-<h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
-</h1>
-
 <h1 class="line-spacing" 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">joint with Michael Abel (ESCP) and <a style="color: #081b88" href="https://www.escp.eu/luque-jaime/" target="_blank"><u>Jaime Luque</u></a> (ESCP)</h1>
+
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Using a stringent large-scale policy intervention that capped rental prices in more than 60 municipalities in Catalonia, Spain, we find that rent control initially reduces average rents, but this effect vanishes after one year due to a 14%-18% decline in rental housing supply. House sales increase by 26%-38% while house prices increase by 3.3%-4.4%. The reduction in both rental and house prices stems from effects at the bottom of the respective distributions, with no significant effects on rents at the top. Conversely, expensive houses experience significant price increases. We estimate that working class properties lost 1 billion euros in value as a consequence of rent control, a significant larger amount than the 8 million euros gains from reduced rents for low- and medium-income tenants. Inequality also widened because house values at the top quartile of the distribution increased by almost 1.1 billion euros.</p>
+
+<p>&nbsp;
+</p>
+
+<h1 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
+</h1>
+
+
 
 
