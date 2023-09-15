@@ -68,9 +68,6 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<hr size="100px;" color="#081b88" />
-<p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Other work in progress</p>  
-
 <h1 class="line-spacing" 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics</u>
 </h1>
@@ -80,6 +77,10 @@ permalink: /research/
 
 <p>&nbsp;
 </p>
+
+
+<hr size="100px;" color="#081b88" />
+<p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Other work in progress</p>  
 
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
