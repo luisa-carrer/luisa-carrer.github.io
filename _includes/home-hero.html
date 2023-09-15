@@ -1,81 +1,40 @@
 <div class="container">
 
   <div class="row">
+    <!-- For medium and large screens, this column will take up 6 columns, and for smaller screens, it'll take up all 12 columns -->
+    <div class="col-md-6 col-12">
+      <img src="Luisa_CARRER_(8).jpg" alt="Luisa Carrer" class="img-fluid"> <!-- img-fluid makes the image responsive -->
+    </div>
 
-    <div class="col-md-12">
+    <!-- Same as above, but for the text part -->
+    <div class="col-md-6 col-12">
+      <h1 style="font-family:'Optima';color: #081b88;font-size:300%; margin-top: 0.5em; font-weight: 100;" class="text-center">Luisa Carrer</h1>  
+      <br>
+      <br>
+      <span style="color: #081b88;font-size:18px;font-family: 'Source Sans Pro', sans-serif"><b>Welcome!</b></span>
+      <br>
+      <br>
+      <span style="font-size:16px;font-family: 'Source Sans Pro', sans-serif">
+      I am a PhD candidate at <a style="color: #081b88" href="https://www.tse-fr.eu/people/luisa-carrer" target="_blank"><u>Toulouse School of Economics</u></a> and I will be on the 2023/2024 academic job market.
+      <br>
+      <br>
+      I am an applied economist with interests in Public and Political Economy, particularly in topics related to gender gaps and inequality.
+      <br>
+      <br>
+      By leveraging rich data from social media, my research investigates how market and non-market forces affect policy take-up and political support for women's issues.
+      </span>
 
-      <div class="hero-container">
-
-        <div class="hero-content">
-            
-<!--          {% if site.title != '' %} -->     
-<!--          <h1 style="font-family:"Bodoni MT";font-size:300%;" class="text-center"> {{site.title}}</h1> --><!-- color:DarkBlue;font-family:Copperplate/optima; -->
-<!--          {% endif %} -->
-
-          {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center">
-            {% if site.description != '' %}
-            {{site.description}}
-            {% endif %}
-
-            {% if site.enable_contact == true %}
-            {% include contact.html %}
-            {% include contact-modal.html %}
-            {% endif %}
-          </p>
-          {% endif %}
-
-  <h1 style="font-family:"Optima";color: #081b88;font-size:300%; margin-top: 0.5em; font-weight: 100; " class="text-center"> Luisa Carrer</h1>  <!-- color:DarkBlue;font-family:Bodoni MT/Copperplate Gothic Light/optima; -->        
-  <br>
-  <br>
-  <br>
-  <br>
-              
-          <!-- <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> -->
-  <div style="display:block; width:100%;">
-    <div style="width:40%; float: left; display: inline-block;">  <img src="Luisa_CARRER_(8).jpg" alt="Luisa Carrer">   </div>
-
-    <div style="width:4%; float: left; display: inline-block;"> <br> <br> </div>    <!-- blank line -->
-    <div style="width:56%; float: left; display: inline-block;">    <br>
-                                                                    <br>
-                                                                    <br>
-                                                                    <br>
-                                                                    <span style="color: #081b88;font-size:18px;font-family: 'Source Sans Pro', sans-serif"><b>Welcome!</b> </span>
-                                                                    <br>
-                                                                    <br>        
-                                                                    <span style="font-size:16px;font-family: 'Source Sans Pro', sans-serif">
-                                                                    I am a PhD candidate at <a style="color: #081b88" href="https://www.tse-fr.eu/people/luisa-carrer" target="_blank"><u>Toulouse School of Economics</u></a> 
-                                                                      and I will be on the 2023/2024 academic job market.
-                                                                    <br>
-                                                                    <br>
-                                                                    I am an applied economist with interests in Public and Political Economy, particularly in topics related to gender gaps and inequality.
-                                                                    <br>
-                                                                    <br>
-                                                                    By leveraging rich data from social media, my research investigates how market and non-market forces affect policy take-up and political support for women's issues.
-                                                                    </span>
-      </div>
-  </div>
-
-         
-          
-          
-      
-            <div class="hero-buttons">
-
-            {% if site.twitter_username != '' %}
-              <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
-            {% endif %}
-            {% if site.github_username != '' %}
-              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
-            {% endif %}
-            {% if site.medium_username != '' %}
-              <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
-            {% endif %}
-
-          </div>
-
-        </div>
-
+      <!-- Social Media Buttons -->
+      <div class="hero-buttons">
+        {% if site.twitter_username != '' %}
+          <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
+        {% endif %}
+        {% if site.github_username != '' %}
+          <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
+        {% endif %}
+        {% if site.medium_username != '' %}
+          <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
+        {% endif %}
       </div>
 
     </div>
