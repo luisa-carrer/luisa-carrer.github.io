@@ -1,61 +1,41 @@
 <div class="container">
 
-  <div class="row">
+  <!-- Add padding to create space between the navigation bar and the content -->
+  <div style="padding-top: 100px;"></div>
 
-    <div class="col-md-12 text-center mt-5">
-      <h1 class="hero-title" style="font-family:'Optima'; color: #081b88; font-size:300%; margin-top: 0.5em; font-weight: 100;">Luisa Carrer</h1>
+  <!-- Title to appear on top of everything -->
+  <h1 style="font-family:'Optima'; color: #081b88; font-size: 300%; text-align: center; margin-bottom: 100px;">Luisa Carrer</h1>
+
+  <div class="row justify-content-center">
+
+    <!-- Empty column for centering -->
+    <div class="col-md-2 d-none d-md-block"></div>
+
+    <!-- Picture column -->
+    <div class="col-lg-3 col-md-4 col-12">
+      <img src="Luisa_CARRER_(8).jpg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;">
     </div>
 
-  </div>
-
-  <div class="row justify-content-center mt-5">
-
-    <div class="col-12 col-md-4">
-      <div class="hero-img mb-md-0 mb-4">
-        <img src="Luisa_CARRER_(8).jpg" alt="Luisa Carrer" class="img-fluid">
-      </div>
-    </div>
-
-    <div class="col-12 col-md-6 text-md-center d-flex align-items-center">
-      <div>
-        <span style="color: #081b88;font-size:18px;font-family: 'Source Sans Pro', sans-serif"><b>Welcome!</b></span>
+    <!-- Text column -->
+    <div class="col-lg-5 col-md-6 col-12">
+      <!-- Your text and other content here -->
+      <span style="color: #081b88;font-size:18px;font-family: 'Source Sans Pro', sans-serif"><b>Welcome!</b></span>
+      <br>
+      <br>
+      <span style="font-size:16px;font-family: 'Source Sans Pro', sans-serif">
+        I am a PhD candidate at <a style="color: #081b88" href="https://www.tse-fr.eu/people/luisa-carrer" target="_blank"><u>Toulouse School of Economics</u></a> and I will be on the 2023/2024 academic job market.
         <br>
-        <span style="font-size:16px;font-family: 'Source Sans Pro', sans-serif">
-          I am a PhD candidate at <a style="color: #081b88" href="https://www.tse-fr.eu/people/luisa-carrer" target="_blank"><u>Toulouse School of Economics</u></a> and I will be on the 2023/2024 academic job market.
-          <br>
-          I am an applied economist with interests in Public and Political Economy.
-        </span>
-      </div>
+        <br>
+        I am an applied economist with interests in Public and Political Economy, particularly in topics related to gender gaps and inequality.
+        <br>
+        <br>
+        By leveraging rich data from social media, my research investigates how market and non-market forces affect policy take-up and political support for women's issues.
+      </span>
     </div>
 
+    <!-- Another empty column for centering -->
+    <div class="col-md-2 d-none d-md-block"></div>
 
-
-
-
-
-
-
-
-      <!-- Social Media Buttons -->
-      <div class="hero-buttons">
-        {% if site.twitter_username != '' %}
-          <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
-        {% endif %}
-        {% if site.github_username != '' %}
-          <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
-        {% endif %}
-        {% if site.medium_username != '' %}
-          <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
-        {% endif %}
-      </div>
-
-
-
-
-
-
-
-    
   </div>
 
 </div>
