@@ -19,6 +19,8 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
+<p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Job Market Paper </p>  
+
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> Municipal-Level Gender Norms: Measurement and Effects on Women in Politics</u>
 </h1>
@@ -30,7 +32,7 @@ permalink: /research/
 </p>
 
 
-
+<p style="font-size:25px; color: #081b88; font-weight: 500; margin-top: 0.8em">Other research </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> The Effectiveness of Parental Leaves when Social Norms Matter</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link" target="_blank"><u>[PDF]</u></a>
