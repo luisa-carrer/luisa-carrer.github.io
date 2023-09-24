@@ -31,7 +31,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<hr size="100px;" color="#081b88" />
+<hr style="border: none; border-top: 1px solid #081b88; margin: 20px 0;">
 <p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Other research </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
