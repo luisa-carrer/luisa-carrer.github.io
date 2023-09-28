@@ -19,30 +19,6 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<div style="font-size: 17px; color: black;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;">References:</div>
-
-<div class="row">
-    <div class="col-md-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
-        <strong>Helmuth Cremer</strong>
-        <div>Department of Economics</div>
-        <div>Toulouse School of Economics</div>
-        <div><a style="color: #081b88" href="mailto:helmuth.cremer@tse-fr.eu">helmuth.cremer@tse-fr.eu</a></div>
-    </div>
-    <div class="col-md-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
-        <strong>Victor Gay</strong>
-        <div>Department of Economics</div>
-        <div>Toulouse School of Economics</div>
-        <div><a style="color: #081b88" href="mailto:victor.gay@tse-fr.eu">victor.gay@tse-fr.eu</a></div>
-    </div>
-    <div class="col-md-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
-        <strong>Alessandra Voena</strong>
-        <div>Department of Economics</div>
-        <div>Stanford University</div>
-        <div><a style="color: #081b88" href="mailto:avoena@stanford.edu">avoena@stanford.edu</a></div>
-    </div>
-    <div class="col-md-3"></div>  <!-- Empty Space -->
-</div>
-
 
 
 
