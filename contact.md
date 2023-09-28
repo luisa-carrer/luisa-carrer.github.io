@@ -32,7 +32,10 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-## <center> References </center>
+# <center> References </center>
+
+<p>&nbsp;
+</p>
 
 <div class="row">
     <div class="col-md-4" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
