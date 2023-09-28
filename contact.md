@@ -9,7 +9,10 @@ permalink: /contact/
 </head>
 
 # <center> Contact </center>
-    
+
+<p>&nbsp;
+</p>
+
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </div>
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> 1 Esplanade de l'Université </div>
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;">  31080, Toulouse (France) </div>
