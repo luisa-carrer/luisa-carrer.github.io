@@ -17,7 +17,7 @@ permalink: /contact/
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> E-mail: <a style="color: #081b88" href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a> </div>
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Web: <a style="color: #081b88" href="https://luisa-carrer.github.io">luisa-carrer.github.io</a> </div>
 
-<h2 style="color: black;">References:</h2>
+<div style="font-weight: bold; font-size: 16px; color: black;">References</div>
 
 <div class="row">
     <div class="col-md-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
