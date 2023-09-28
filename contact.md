@@ -44,6 +44,8 @@ permalink: /contact/
     </div>
 </div>
 
+</div>
+
 
 
 
