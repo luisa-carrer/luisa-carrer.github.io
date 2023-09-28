@@ -9,8 +9,6 @@ permalink: /contact/
 </head>
 
 # <center> Contact </center>
-
-<div class="container-fluid">
     
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </div>
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> 1 Esplanade de l'Université </div>
@@ -42,8 +40,6 @@ permalink: /contact/
         <br>Stanford University
         <br><a style="color: #081b88" href="mailto:avoena@stanford.edu">avoena@stanford.edu</a>
     </div>
-</div>
-
 </div>
 
 
