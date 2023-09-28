@@ -16,10 +16,9 @@ permalink: /contact/
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> E-mail: <a style="color: #081b88" href= "mailto:luisa.carrer@tse-fr.eu">luisa.carrer@tse-fr.eu &#9993;</a> </div>
 <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Web: <a style="color: #081b88" href="https://luisa-carrer.github.io">luisa-carrer.github.io</a> </div>
 
-<h2 style="font-weight: bold; color: black;">References</h2>
+<h2 style="color: black;">References:</h2>
 
 <div class="row">
-    <div class="col-md-1"></div>  <!-- Spacer -->
     <div class="col-md-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
         <strong>Helmuth Cremer</strong>
         <div>Department of Economics</div>
@@ -38,9 +37,8 @@ permalink: /contact/
         <div>Stanford University</div>
         <div><a style="color: #081b88" href="mailto:avoena@stanford.edu">avoena@stanford.edu</a></div>
     </div>
-    <div class="col-md-1"></div>  <!-- Spacer -->
+    <div class="col-md-3"></div>  <!-- Empty Space -->
 </div>
-
 
 
 
