@@ -19,7 +19,7 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<div style="; font-size: 20px; color: black; margin-bottom: 20px;">References:</div>
+<div style="; font-size: 20px; font-family: 'Source Sans Pro', sans-serif; color: black; margin-bottom: 20px;">References:</div>
 
 <div class="row">
     <div class="col-12 col-md-4 mb-sm-4" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
