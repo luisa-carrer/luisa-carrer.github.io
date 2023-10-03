@@ -16,7 +16,7 @@ permalink: /contact/
 <div class="row">
     <!-- Column for the figure -->
     <div class="col-lg-5 col-md-4 col-12">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/7lWfZq4yxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img src="Tolosa_horizontal" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;">
     </div>
     
     <!-- Column for the contact details -->
