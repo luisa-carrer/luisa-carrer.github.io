@@ -14,7 +14,7 @@ permalink: /memyself/
 </p>
 
 <p style="font-size:17px;font-family: 'Source Sans Pro', sans-serif">
-  <center> ... some memories from "<em>the other part of me</em>" ... </center>
+  <center> ... some memories from "<em style="color: #081b88">the other part of me</em>" ... </center>
   </p>
 
 <p>&nbsp;
