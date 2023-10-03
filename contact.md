@@ -16,7 +16,7 @@ permalink: /contact/
 <div class="row">
     <!-- Column for the figure -->
     <div class="col-lg-5 col-md-4 col-12">
-        <img src="Tolosa_horizontal.jpg" alt="Toulouse" class="img-fluid" style="max-width: 100%;">
+        <img src="https://github.com/luisa-carrer/luisa-carrer.github.io/Tolosa_horizontal.jpg" alt="Toulouse" class="img-fluid" style="max-width: 100%;">
     </div>
     
     <!-- Column for the contact details -->
