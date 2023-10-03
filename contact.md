@@ -16,9 +16,9 @@ permalink: /contact/
 <div class="row">
     <!-- Column for the figure -->
     <div class="col-12 col-md-4">
-        <img src="Tolosa_horizontal.jpg" alt="Toulouse" class="img-fluid">
+        <img src="Tolosa_horizontal.jpg" alt="Toulouse" class="img-fluid" style="max-width: 100%;">
     </div>
-
+    
     <!-- Column for the contact details -->
     <div class="col-12 col-md-8">
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </div>
