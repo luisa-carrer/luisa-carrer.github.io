@@ -30,9 +30,6 @@ permalink: /contact/
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;">  Toulouse, France </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> E-mail: <a style="color: #081b88" href= "mailto:luisa.carrer@tse-fr.eu"><u>luisa.carrer@tse-fr.eu</u> &#9993;</a> </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Web: <a style="color: #081b88" href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u> &#8599;</a> </div>
-</div>
-
-
     </div>
 </div>
 
