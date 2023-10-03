@@ -72,7 +72,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics</u> <em style="color: #081b88">[Draft coming soon!]</em>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Stringent Large-scale Rent Control: Evidence on Rent-Price Dynamics</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with Michael Abel (ESCP) and <a style="color: #081b88" href="https://www.escp.eu/luque-jaime/" target="_blank"><u>Jaime Luque</u></a> (ESCP)</h1>
 
