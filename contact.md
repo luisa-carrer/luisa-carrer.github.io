@@ -21,6 +21,7 @@ permalink: /contact/
     
     <!-- Column for the contact details -->
     <div class="col-12 col-md-4">
+    <br>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> 1 Esplanade de l'Université </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  31080 Toulouse Cedex 06 </div>
