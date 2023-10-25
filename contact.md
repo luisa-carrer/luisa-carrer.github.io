@@ -52,16 +52,16 @@ permalink: /contact/
         <br><a style="color: #081b88" href="mailto:victor.gay@tse-fr.eu"><u>victor.gay@tse-fr.eu</u></a>
     </div>
     <div class="col-12 col-md-3 mb-sm-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-top: 20px;">
-        <strong><a style="color: #081b88" href="https://avoena.people.stanford.edu/" target="_blank"><u>Alessandra Voena</u></a></strong>
-        <br>Department of Economics
-        <br>Stanford University
-        <br><a style="color: #081b88" href="mailto:avoena@stanford.edu"><u>avoena@stanford.edu</u></a>
-    </div>
-    <div class="col-12 col-md-3 mb-sm-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-top: 20px;">
         <strong><a style="color: #081b88" href="https://www.tse-fr.eu/people/mateo-montenegro" target="_blank"><u>Mateo Montenegro</u></a></strong>
         <br>Department of Economics
         <br>Toulouse School of Economics
         <br><a style="color: #081b88" href="mailto:mateo.montenegro@tse-fr.eu"><u>mateo.montenegro@tse-fr.eu</u></a>
+    </div>
+    <div class="col-12 col-md-3 mb-sm-3" style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-top: 20px;">
+        <strong><a style="color: #081b88" href="https://avoena.people.stanford.edu/" target="_blank"><u>Alessandra Voena</u></a></strong>
+        <br>Department of Economics
+        <br>Stanford University
+        <br><a style="color: #081b88" href="mailto:avoena@stanford.edu"><u>avoena@stanford.edu</u></a>
     </div>
 </div>
 
