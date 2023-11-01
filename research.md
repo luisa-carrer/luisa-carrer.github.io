@@ -36,9 +36,9 @@ permalink: /research/
 <p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Work in Progress </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u> 
-  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span>
-   <!--  <a style="color: #081b88"  href="https://drive.google.com/file/d/1K06sRgc7v2mwntaFGWQSMts6iJFjnuKc/view?usp=share_link" target="_blank"><u>[PDF]</u></a>  -->
+  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/1KdluQxP0KPv9cUIFYWVnzVJZrsL97pvT/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
+  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span> -->
+     
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best paper award (third prize) at the <a style="color: #081b88" href="https://acdd.sciencesconf.org/" target="_blank"><u>Augustin Cournot Doctoral Days 2021</u></a></em></h1>
 
