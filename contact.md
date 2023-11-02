@@ -28,22 +28,9 @@ permalink: /contact/
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  31080 Toulouse Cedex 06 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  Office T345 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;">  Toulouse, France </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> <strong>
-    <strong>E-mail:</strong>
-    <table style="border-collapse: collapse;">
-      <tr>
-        <td><a style="color: #081b88" href="mailto:luisa.carrer@tse-fr.eu"><u>luisa.carrer@tse-fr.eu</u></a> &#9993;</td>
-      </tr>
-      <tr>
-        <td><a style="color: #081b88" href="mailto:yourgmail@gmail.com"><u>luisacarrer1@gmail.com</u></a> &#9993;</td>
-      </tr>
-    </table>
-  </div>
-  <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88">
-    <strong>Web:</strong>
-    <a style="color: #081b88" href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u> &#8599;</a>
-  </div>
-</div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> <strong>E-mail:</strong> <a style="color: #081b88" href= "mailto:luisa.carrer@tse-fr.eu"><u>luisa.carrer@tse-fr.eu</u> &#9993;</a> </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> <strong>Web:</strong> <a style="color: #081b88" href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u> &#8599;</a> </div>
+    </div>
 </div>
 
 <p>&nbsp;
