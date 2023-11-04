@@ -20,10 +20,10 @@ permalink: /contact/
     </div>
     
     <!-- Column for the contact details -->
-    <div class="d-none d-lg-block d-xl-block">
+    <div class="d-none d-lg-block">
         <br>
     </div>
-    <div class="d-none d-lg-block d-xl-block">
+    <div class="d-none d-lg-block">
         <br>
     </div>
     <div class="col-12 col-md-5">
