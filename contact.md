@@ -15,18 +15,14 @@ permalink: /contact/
 
 <div class="row">
     <!-- Column for the figure -->
-    <div class="col-12 col-md-7">
+    <div class="col-12 col-md-8 col-lg-7">
         <img src="{{ site.baseurl }}/Tolosa_horizontal.jpg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;">
     </div>
     
     <!-- Column for the contact details -->
-    <div class="d-none d-lg-block">
-        <br>
-    </div>
-    <div class="d-none d-lg-block">
-        <br>
-    </div>
-    <div class="col-12 col-md-5">
+    <div class="col-12 col-md-4 col-lg-5">
+    <br>
+    <br>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Toulouse School of Economics </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> 1 Esplanade de l'Université </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  31080 Toulouse Cedex 06 </div>
