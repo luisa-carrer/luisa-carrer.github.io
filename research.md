@@ -36,7 +36,7 @@ permalink: /research/
 <p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Work in Progress </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/1KdluQxP0KPv9cUIFYWVnzVJZrsL97pvT/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
+  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/193LAbhUfhg7WY9Kknz8c9YD8srYpbM_x/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span> -->
      
 </h1>
