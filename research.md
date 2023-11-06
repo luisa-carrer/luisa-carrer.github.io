@@ -48,6 +48,17 @@ permalink: /research/
 </p>
 
 
+<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> 
+  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span>
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.sebastienmontpetit.com/en/" target="_blank"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
+
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Recent research shows that targeted early-childhood interventions can yield large returns. However, implementing these policies on a larger scale can be considerably costly, making it unclear whether the same benefits can be achieved. In this paper, we evaluate the welfare effect of universal childcare provision. Leveraging variation from the 1997 &#8216;&#8216;$5 per day&#8217;&#8217; policy in Québec, we propose a method to empirically quantify the bias of sufficient-statistic estimators when applied to non-marginal reforms. The framework compares a benchmark reduced-form approach to a structural estimator accounting for the fact that the policy change is non-marginal. Using novel data on regional daycare coverage rates within Québec, our reduced-form analysis reveals that the increase in childcare availability, and not only the price decrease, is responsible for the positive impact of the reform on childcare use and maternal labor supply. Our behavioral model directly incorporates the shortages in daycare along with non-pecuniary benefits of childcare use that are omitted by the benchmark estimator. Structural estimates suggest that the benefits of the policy are about twice as large than in the benchmark, mostly because increased access is valuable for parents. In line with these findings, counterfactual simulations suggest that parents are willing to pay substantially more for an increase in coverage than a reduction in price.</p>
+
+<p>&nbsp;
+</p>
+
 
 <h1 class="line-spacing"
   style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook Data</u>
@@ -62,16 +73,7 @@ permalink: /research/
 
 
 
-<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> 
-  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span>
-</h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.sebastienmontpetit.com/en/" target="_blank"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
 
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Recent research shows that targeted early-childhood interventions can yield large returns. However, implementing these policies on a larger scale can be considerably costly, making it unclear whether the same benefits can be achieved. In this paper, we evaluate the welfare effect of universal childcare provision. Leveraging variation from the 1997 &#8216;&#8216;$5 per day&#8217;&#8217; policy in Québec, we propose a method to empirically quantify the bias of sufficient-statistic estimators when applied to non-marginal reforms. The framework compares a benchmark reduced-form approach to a structural estimator accounting for the fact that the policy change is non-marginal. Using novel data on regional daycare coverage rates within Québec, our reduced-form analysis reveals that the increase in childcare availability, and not only the price decrease, is responsible for the positive impact of the reform on childcare use and maternal labor supply. Our behavioral model directly incorporates the shortages in daycare along with non-pecuniary benefits of childcare use that are omitted by the benchmark estimator. Structural estimates suggest that the benefits of the policy are about twice as large than in the benchmark, mostly because increased access is valuable for parents. In line with these findings, counterfactual simulations suggest that parents are willing to pay substantially more for an increase in coverage than a reduction in price.</p>
-
-<p>&nbsp;
-</p>
 
 
 
