@@ -22,8 +22,8 @@ permalink: /research/
 <p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Job Market Paper </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> 
-  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span>
+  <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1HpIy1PtBm0SjQjr1feJaKbifMoKYDgbc/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
+  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Carlos III University of Madrid)</h1>
 
@@ -49,8 +49,8 @@ permalink: /research/
 
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> 
-  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span>
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[PDF]</u></a> 
+  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.sebastienmontpetit.com/en/" target="_blank"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
 
