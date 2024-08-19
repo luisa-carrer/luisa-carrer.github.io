@@ -19,7 +19,7 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Job Market Paper </p>  
+<p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Working Papers </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1HpIy1PtBm0SjQjr1feJaKbifMoKYDgbc/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
@@ -32,22 +32,6 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<hr style="border: none; border-top: 1px solid #081b88; margin: 20px 0;">
-<p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Working Papers </p>  
-
-<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/193LAbhUfhg7WY9Kknz8c9YD8srYpbM_x/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
-  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span> -->
-     
-</h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best paper award (third prize) at the <a style="color: #081b88" href="https://acdd.sciencesconf.org/" target="_blank"><u>Augustin Cournot Doctoral Days 2021</u></a></em></h1>
-
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake.</p>
-
-<p>&nbsp;
-</p>
-
-
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[PDF]</u></a> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
@@ -58,6 +42,19 @@ permalink: /research/
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best Paper Prize 2024 (runner-up) of the  <a style="color: #081b88" href="https://clef.uwaterloo.ca/" target="_blank"><u>Canadian Labour Economics Forum</u></a></em></h1>
 
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: While recent research shows that targeted early-childhood interventions can yield large returns, the extent to which such benefits extend to universal programs remains an open question. Leveraging the introduction of universal low-fee daycare in Québec in 1997, this paper evaluates the welfare effect of universal childcare provision. First, using novel data on daycare coverage rates within Québec and a difference-in-differences design, we show that the positive impacts on maternal labor supply and childcare use are larger in areas where daycare expanded more. Thus, childcare availability, rather than just the price decrease, is responsible for the observed behavioral responses. In the second part of the paper, we estimate the benefit-to-net-cost ratio of the policy. We estimate mothers' utility gains using a model of maternal labor supply and childcare choices, incorporating non-pecuniary benefits for parents, such as non-monetary costs of childcare use, and childcare availability.  Structural estimates indicate benefits of more than 3.5 dollars per dollar of net government spending&mdash;more than twice that obtained when using earnings gains as a sufficient statistic. As such, our findings suggest that sufficient-statistic estimators applied to non-marginal reforms may overlook key welfare gains. Counterfactual simulations suggest that channelling more resources towards opening spots, rather than lowering prices, could lead to even larger social returns. </p>
+
+<p>&nbsp;
+</p>
+
+<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
+  <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/193LAbhUfhg7WY9Kknz8c9YD8srYpbM_x/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> 
+  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span> -->
+     
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best paper award (third prize) at the <a style="color: #081b88" href="https://acdd.sciencesconf.org/" target="_blank"><u>Augustin Cournot Doctoral Days 2021</u></a></em></h1>
+
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake.</p>
+
 
 <p>&nbsp;
 </p>
