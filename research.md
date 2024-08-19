@@ -93,7 +93,7 @@ permalink: /research/
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered costs of teamwork: Evidence from scientific retractions </u> <span style="font-weight: normal; font-size: 14px;"></span> 
 </h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
 
 
 
@@ -104,8 +104,7 @@ permalink: /research/
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u> <span style="font-weight: normal; font-size: 14px;"></span> 
 </h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
-
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
 
 
 <p>&nbsp;
