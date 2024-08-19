@@ -107,12 +107,12 @@ permalink: /research/
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
 
 
-<p>&nbsp;
-</p>
+ <!-- <p>&nbsp; -->
+ <!-- </p> -->
 
-<h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
-</h1>
+ <!-- <h1  -->
+ <!--  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u> -->
+ <!-- </h1> -->
 
 
 
