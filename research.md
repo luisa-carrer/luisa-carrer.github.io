@@ -79,14 +79,6 @@ permalink: /research/
 </p>
 
 
-
-
-
-
-
-
-
-
 <h1 class="line-spacing" 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>The Perverse Effects of Rent Control: Evidence From a Large-scale Stringent Regulation in Catalonia</u>  <span style="font-weight: normal; font-size: 14px;"></span> 
 </h1>
@@ -94,9 +86,30 @@ permalink: /research/
 
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Using a stringent large-scale policy intervention that capped rental prices in more than 60 municipalities in Catalonia, Spain, we find that rent control initially reduces average rents, but this effect vanishes after one year due to a 30%-32% decline in rental housing supply. House sales increase by 13%-18% while house prices decrease by 2.3%-3.7%. The reduction in both rental and house prices stems from effects at the bottom of the respective distributions, with no significant effects on rents at the top. Conversely, expensive houses experience significant price increases. We estimate that working class properties lost 1 billion euros in value as a consequence of rent control, a significant larger amount than the 8 million euros gains from reduced rents for low- and medium-income tenants. Inequality also widened because house values at the top quartile of the distribution increased by almost 1.1 billion euros.</p>
 
+
 <p>&nbsp;
 </p>
 
+<h1 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered costs of teamwork: Evidence from scientific retractions </u> <span style="font-weight: normal; font-size: 14px;"></span> 
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
+
+
+
+
+<p>&nbsp;
+</p>
+
+<h1 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u> <span style="font-weight: normal; font-size: 14px;"></span> 
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
+
+
+
+<p>&nbsp;
+</p>
 
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u>
