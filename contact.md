@@ -24,8 +24,9 @@ permalink: /contact/
     <br>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Bocconi University </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Via Guglielmo Röntgen, 1 </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  20136, Milan, Italy </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;">  Office 6C04 </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  20136 </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  Office 6C04 </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;"> Milan, Italy  </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; margin-bottom: 20px;"> <strong>Web:</strong> <a style="color: #081b88" href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u> &#8599;</a> </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> <strong>E-mail:</strong> <a style="color: #081b88" href= "mailto:carrer.luisa@unibocconi.it"><u>carrer.luisa@unibocconi.it</u> &#9993;</a> </div>
         <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color: #081b88" href= "mailto:luisacarrer1@gmail.com"><u>luisacarrer1@gmail.com</u> &#9993;</a> </div>
