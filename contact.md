@@ -22,6 +22,7 @@ permalink: /contact/
     <!-- Column for the contact details -->
     <div class="col-12 col-md-4 col-lg-5">
     <br>
+    <br>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Bocconi University </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Via Guglielmo Röntgen, 1 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  20136 </div>
