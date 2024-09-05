@@ -68,7 +68,7 @@ permalink: /research/
 
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Gender Norms and Parental Leave: Evidence from Municipal-Level Facebook Data</u>
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Gender Norms and Parental Leave</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Carlos III University of Madrid)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Selected project for <a style="color: #081b88" href="https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars.html" target="_blank"><u>VisitINPS Fellowship</u></a> on gender inequalities</em></h1>
