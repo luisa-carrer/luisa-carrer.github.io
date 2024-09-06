@@ -19,4 +19,8 @@ You can find my <i>curriculum vitae</i> <a style="color: #081b88" href="https://
 
 <p>&nbsp;</p> 
 
+<!-- Embedding the CV PDF -->
+<!-- <center> -->
+<!--   <iframe src="https://drive.google.com/file/d/1Q79ZdZDi0tXYvBy4UZQdzYQTrBe7g5vU/view?usp=share_link" width="800px" height="1200px"></iframe> -->
+<!-- </center> -->
 
