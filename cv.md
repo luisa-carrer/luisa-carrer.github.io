@@ -13,13 +13,10 @@ permalink: /cv/
 <p>&nbsp;
 </p>
 
-<!-- <p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> -->
-<!-- You can find my <i>curriculum vitae</i> <a style="color: #081b88" href=https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link" target="_blank"><u>here</u></a>. -->
-<!--  </p> -->
+<p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
+You can find my <i>curriculum vitae</i> <a style="color: #081b88" href=https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link" target="_blank"><u>here</u></a>.
+ </p>
 
-<!-- <p>&nbsp;</p> -->
+<p>&nbsp;</p> 
 
-<!-- Embedding the CV PDF -->
-<center>
-  <iframe src="https://drive.google.com/file/d/1Q79ZdZDi0tXYvBy4UZQdzYQTrBe7g5vU/view?usp=share_link" width="800px" height="1200px"></iframe>
-</center>
+
