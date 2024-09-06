@@ -21,5 +21,5 @@ permalink: /cv/
 
 <!-- Embedding the CV PDF -->
 <center>
-  <iframe src="https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link" width="800px" height="1200px"></iframe>
+  <iframe src="https://drive.google.com/file/d/1Q79ZdZDi0tXYvBy4UZQdzYQTrBe7g5vU/view?usp=share_link" width="800px" height="1200px"></iframe>
 </center>
