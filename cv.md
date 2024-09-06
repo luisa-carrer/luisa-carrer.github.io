@@ -14,7 +14,7 @@ permalink: /cv/
 </p>
 
 <p style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">
-You can find my <i>curriculum vitae</i> <a style="color: #081b88" href=https://drive.google.com/file/d/1YCHajVa2H_Srx2DMKxyvM1FThWdP848C/view?usp=share_link" target="_blank"><u>here</u></a>.
+You can find my <i>curriculum vitae</i> <a style="color: #081b88" href=https://drive.google.com/file/d/1Q79ZdZDi0tXYvBy4UZQdzYQTrBe7g5vU/view?usp=share_link" target="_blank"><u>here</u></a>.
  </p>
 
 <p>&nbsp;</p> 
