@@ -33,7 +33,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[PDF]</u></a>  <a style="color: #081b88"  href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>[Policy Impacts library]</u></a>
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[WP]</u></a>  <a style="color: #081b88"  href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>[Policy Impacts library]</u></a>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/view/sebastien-montpetit/home" target="_blank"><u>Sébastien Montpetit</u></a> (Toulouse School of Economics) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
