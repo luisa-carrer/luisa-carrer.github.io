@@ -23,8 +23,9 @@ permalink: /research/
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1HpIy1PtBm0SjQjr1feJaKbifMoKYDgbc/view?usp=sharing" target="_blank"><u>[PDF]</u></a> 
+  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
-</h1> (<em>submitted</em>)
+</h1> 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy and Carlos III University of Madrid)</h1>
 
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We study how gender norms shape legislators' engagement with women's issues. Leveraging Facebook data processed via machine learning algorithms, we construct a fine-grained Gender Norms Index (<em>GNI</em>) at the municipal level within Italy. Exploiting the substantial local heterogeneity in norms, we show that female legislators from conservative towns sponsor 1.02 fewer gender-related bills&mdash;a 15% drop relative to the female mean&mdash;even when compared to peers from the same party or district. This pattern does not hold for non-gender legislation. Voting data further shows that traditional norms hinder the passage of pro-equality laws, slowing down reform for the expansion of women's rights.  
@@ -33,8 +34,9 @@ permalink: /research/
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[WP]</u></a>  <a style="color: #081b88"  href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>[Policy Impacts library]</u></a> 
+  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
-</h1> (<em>submitted</em>)
+</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/view/sebastien-montpetit/home" target="_blank"><u>Sébastien Montpetit</u></a> (University of Warwick) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
 
 
