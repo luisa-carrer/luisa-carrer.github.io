@@ -24,9 +24,9 @@ permalink: /contact/
     <br>
     <br>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> ESCP Business School </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> C. de Arroyofresno, 1 </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  28035 </div>
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;"> Madrid, Spain  </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Via Andrea Doria, 27 </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  10123 </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;"> Turin, Italy  </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; margin-bottom: 20px;"> <strong>Web:</strong> <a style="color: #081b88" href="https://luisa-carrer.github.io"><u>luisa-carrer.github.io</u> &#8599;</a> </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> <strong>E-mail:</strong> <a style="color: #081b88" href= "mailto:lcarrer@escp.eu"><u>lcarrer@escp.eu</u> &#9993;</a> </div>
         <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color: #081b88" href= "mailto:luisacarrer1@gmail.com"><u>luisacarrer1@gmail.com</u> &#9993;</a> </div>
