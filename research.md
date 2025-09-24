@@ -33,7 +33,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1m_Ag5W6yLtICBGxNo2t4T7Xa5CvCV5Rj/view" target="_blank"><u>[PDF]</u></a>
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://clef.uwaterloo.ca/wp-content/uploads/2024/08/CLEF-073-2024.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1m_Ag5W6yLtICBGxNo2t4T7Xa5CvCV5Rj/view" target="_blank"><u>[Updated PDF]</u></a>
   <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
