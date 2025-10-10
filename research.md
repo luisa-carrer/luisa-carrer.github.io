@@ -113,6 +113,36 @@ permalink: /research/
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u> <span style="font-weight: normal; font-size: 14px;"></span> 
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em> <a style="color: #081b88" href="https://www.socialscienceregistry.org/trials/16887" target="_blank"><u>Pre-registered at AEA RCT Registry (RCT ID: AEARCTR-0016887)</u></a> </em></h1>
+
+
+
+
+
+<p>&nbsp;
+</p>
+
+<h1 class="line-spacing"
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Social norms and career decisions: Experimental evidence on gender and parenthood biases in STEM and non-STEM jobs</u>
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/site/francescabarigozziunibo/" target="_blank"><u>Francesca Barigozzi</u></a> (University of Bologna) and <a style="color: #081b88" href="https://www.unibo.it/sitoweb/natalia.montinari2" target="_blank"><u>Natalia Montinari</u></a> (University of Bologna)</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em> <a style="color: #081b88" href="https://www.socialscienceregistry.org/trials/16071" target="_blank"><u>Pre-registered at AEA RCT Registry (RCT ID: AEARCTR-0016071)</u></a> </em></h1>
+
+
+
+
+
+
+
+
+<p>&nbsp;
+</p>
+
+<h1 class="line-spacing"
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Demand Side Story: How Female Labor Influences Childcare Supply</u>
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy) and <a style="color: #081b88" href="https://elenarenzullo.weebly.com/" target="_blank"><u>Elena Renzullo</u></a> (London School of Economics)</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Selected project for <a style="color: #081b88" href="https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars.html" target="_blank"><u>VisitINPS Scholarship</u></a> "Program type B"</em></h1>
 
 
 
@@ -125,17 +155,6 @@ permalink: /research/
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Peer effects in women's legislative activity: Evidence from the European Parliament </u> <span style="font-weight: normal; font-size: 14px;"></span> 
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/view/hugosubtil/home" target="_blank"><u>Hugo Subtil</u></a> (University of Zurich)</h1>
-
-
-
-
-
- <!-- <p>&nbsp; -->
- <!-- </p> -->
-
- <!-- <h1  -->
- <!--  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>&#8216;Mommy Wars&#8217; and Endogenous Gender Identity</u> -->
- <!-- </h1> -->
 
 
 
