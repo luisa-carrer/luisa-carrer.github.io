@@ -25,6 +25,7 @@ permalink: /research/
   <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> <a style="color: #081b88"  href="https://drive.google.com/file/d/1HpIy1PtBm0SjQjr1feJaKbifMoKYDgbc/view?usp=sharing" target="_blank"><u>[PDF]</u></a> 
   <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
+  <!--  <span style="font-weight: normal; font-size: 14px;"></span> -->
 </h1> 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="http://economics.uc3m.es/personal/de-massi/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy)</h1>
 
@@ -89,7 +90,7 @@ permalink: /research/
 
 
 <h1 class="line-spacing" 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>The Perverse Effects of Rent Control: Evidence From a Large-scale Stringent Regulation in Catalonia</u>  <span style="font-weight: normal; font-size: 14px;"></span> 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>The Perverse Effects of Rent Control: Evidence From a Large-scale Stringent Regulation in Catalonia</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with Michael Abel (ESCP Business School) and <a style="color: #081b88" href="https://irefim.escp.eu/selected-works/?_ga=2.112653249.473831097.1752198610-1574085363.1711709394" target="_blank"><u>Jaime Luque</u></a> (ESCP Business School)</h1>
 
@@ -99,7 +100,7 @@ permalink: /research/
 </p>
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of negative shocks in science: Evidence from retractions </u> <span style="font-weight: normal; font-size: 14px;"></span> 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of negative shocks in science: Evidence from retractions </u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
 
@@ -110,7 +111,7 @@ permalink: /research/
 </p>
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u> <span style="font-weight: normal; font-size: 14px;"></span> 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em> <a style="color: #081b88" href="https://www.socialscienceregistry.org/trials/16887" target="_blank"><u>Pre-registered at AEA RCT Registry (RCT ID: AEARCTR-0016887)</u></a> </em></h1>
@@ -152,7 +153,7 @@ permalink: /research/
 </p>
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Peer effects in women's legislative activity: Evidence from the European Parliament </u> <span style="font-weight: normal; font-size: 14px;"></span> 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Peer effects in women's legislative activity: Evidence from the European Parliament </u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/view/hugosubtil/home" target="_blank"><u>Hugo Subtil</u></a> (University of Zurich)</h1>
 
