@@ -90,11 +90,11 @@ permalink: /research/
 
 
 <h1 class="line-spacing" 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>The Perverse Effects of Rent Control: Evidence From a Large-scale Stringent Regulation in Catalonia</u>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Rent Control and Decontrol: Temporary Gains, Persistent Costs</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with Michael Abel (ESCP Business School) and <a style="color: #081b88" href="https://irefim.escp.eu/selected-works/?_ga=2.112653249.473831097.1752198610-1574085363.1711709394" target="_blank"><u>Jaime Luque</u></a> (ESCP Business School)</h1>
 
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Using a large-scale rent control policy that capped rental prices in 60 municipalities in Catalonia, Spain, we find that average rents initially declined, but the effect vanishes after one year due to a sharp 40% drop in rental housing supply. In parallel, house sales increase by 16%-17%, while house prices fall by about 3%. While rental market effects revert to pre-policy levels following the policy repeal (approximately 1.5 years after introduction), sales market impacts appear more persistent. The reduction in both rental and house prices stems from effects at the bottom of the respective distributions, while high-end rents and prices fall less or even rise. We estimate that working-class properties lost nearly 800 million euros in value, partially offsetting the 25 million euros in savings for tenants in low- and mid-tier units.</p>
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We study a stringent rent control law introduced in 60 municipalities in Catalonia in 2020 and suddenly eliminated in 2022. Using matched rental and sale listings, we find that rents fall by 6-7% after implementation but return to pre-policy levels within a year as rental listings drop by nearly 40%. Sale listings increase by 16–17% and prices decline by 2-3%, with persistent effects after decontrol. Administrative data suggest that landlords reallocate supply from rentals to sales, and rely on contracts exempt from the law or left unregistered. As a result, rent relief is short-lived, while losses in property values persist.</p>
 
 <p>&nbsp;
 </p>
