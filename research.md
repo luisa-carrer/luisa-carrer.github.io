@@ -69,6 +69,19 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
+<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
+  <u> Rent Control and Decontrol: Temporary Gains, Persistent Losses</u> <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5883882" target="_blank"><u>[PDF]</u></a> 
+  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
+</h1> 
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/michael-abel-97594b1b/" target="_blank"><u>Michael Abel</u></a> (ESCP Business School) and <a style="color: #081b88" href="https://irefim.escp.eu/selected-works/?_ga=2.112653249.473831097.1752198610-1574085363.1711709394" target="_blank"><u>Jaime Luque</u></a> (ESCP Business School)
+</h1>
+
+
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We study a stringent rent control law introduced in 60 municipalities in Catalonia in 2020 and suddenly eliminated in 2022. Using matched rental and sale listings, we find that rents fall by 6-7% after implementation but return to pre-policy levels within a year as rental listings drop by nearly 40%. Sale listings increase by 16–17% and prices decline by 2-3%, with persistent effects after decontrol. Administrative data suggest that landlords reallocate supply from rentals to sales and rely on contracts exempt from the law or left unregistered. As a result, rent relief is short-lived, while losses in property values persist.</p>
+
+<p>&nbsp;
+</p>
+
 
 
 
@@ -85,18 +98,6 @@ permalink: /research/
 
 <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: This paper examines the role of gender norms in mothers' parental leave decisions combining matched employer-employee data and granular Facebook-based measures of gender norms across Italian municipalities. Surprisingly, mothers from gender-conservative areas take shorter parental leave than those from progressive towns, even when working in the same firm or commuting zone. We show that this effect is driven by positive selection into the labor force among conservative women and differences in informal care availability. Comparing similarly productive mothers, we find that traditional gender norms do not affect leave duration for low-productivity mothers but significantly increase leave for high-productivity mothers from conservative areas. We interpret these findings through a model of mother's career and childcare choices with endogenous norms: when gender norms are salient, high-career mothers take longer leave to reduce guilt from deviating from traditional roles, potentially hindering career progressions and exacerbating child penalties. These results highlight the importance of gender norms in policy evaluation and design.</p>
 
-<p>&nbsp;
-</p>
-
-
-<h1 class="line-spacing" 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Rent Control and Decontrol: Temporary Gains, Persistent Losses</u>
-</h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/michael-abel-97594b1b/" target="_blank"><u>Michael Abel</u></a> (ESCP Business School) and <a style="color: #081b88" href="https://irefim.escp.eu/selected-works/?_ga=2.112653249.473831097.1752198610-1574085363.1711709394" target="_blank"><u>Jaime Luque</u></a> (ESCP Business School)</h1>
-
-
-
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We study a stringent rent control law introduced in 60 municipalities in Catalonia in 2020 and suddenly eliminated in 2022. Using matched rental and sale listings, we find that rents fall by 6-7% after implementation but return to pre-policy levels within a year as rental listings drop by nearly 40%. Sale listings increase by 16–17% and prices decline by 2-3%, with persistent effects after decontrol. Administrative data suggest that landlords reallocate supply from rentals to sales and rely on contracts exempt from the law or left unregistered. As a result, rent relief is short-lived, while losses in property values persist.</p>
 
 <p>&nbsp;
 </p>
