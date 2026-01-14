@@ -143,7 +143,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Demand Side Story: How Female Labor Influences Childcare Supply</u>
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Demand side story: How female labor influences childcare supply</u>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/lorenzo-de-masi-a71023a8/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy) and <a style="color: #081b88" href="https://elenarenzullo.weebly.com/" target="_blank"><u>Elena Renzullo</u></a> (London School of Economics)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Selected project for <a style="color: #081b88" href="https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars.html" target="_blank"><u>VisitINPS Scholarship</u></a> "Program type B"</em></h1>
