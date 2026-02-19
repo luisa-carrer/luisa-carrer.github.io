@@ -29,7 +29,7 @@ permalink: /contact/
     <br>
     <br>
     
-    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> ESCP Business School </div>
+    <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; color: #081b88"> ESCP Business School </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Via Andrea Doria, 27 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  10123 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif; margin-bottom: 20px;"> Turin, Italy  </div>
