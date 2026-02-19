@@ -13,11 +13,12 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<div class="row">
+<!-- <div class="row"> -->
+<div class="col-12 col-md-8 col-lg-7 text-center">
     <!-- Column for the figure -->
     <div class="col-12 col-md-8 col-lg-7">
     <!--   <img src="{{ site.baseurl }}/Milan_horizontal.jpg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;"> -->
-        <img src="{{ site.baseurl }}/Turin_mole.jpeg" alt="Luisa Carrer" class="img-fluid mx-auto d-block" style="max-width: 60%;">
+        <img src="{{ site.baseurl }}/Turin_mole.jpeg" alt="Luisa Carrer" class="img-fluid" style="max-width: 60%;">
     </div>
     
     <!-- Column for the contact details -->
