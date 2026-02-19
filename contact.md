@@ -13,10 +13,9 @@ permalink: /contact/
 <p>&nbsp;
 </p>
 
-<!-- <div class="row"> -->
-<div class="col-12 col-md-8 col-lg-7 text-center">
+<div class="row">
     <!-- Column for the figure -->
-    <div class="col-12 col-md-8 col-lg-7">
+    <div class="col-12 col-md-8 col-lg-7 text-center">
     <!--   <img src="{{ site.baseurl }}/Milan_horizontal.jpg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;"> -->
         <img src="{{ site.baseurl }}/Turin_mole.jpeg" alt="Luisa Carrer" class="img-fluid" style="max-width: 60%;">
     </div>
