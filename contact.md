@@ -17,13 +17,17 @@ permalink: /contact/
     <!-- Column for the figure -->
     <div class="col-12 col-md-8 col-lg-7">
     <!--   <img src="{{ site.baseurl }}/Milan_horizontal.jpg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;"> -->
-        <img src="{{ site.baseurl }}/Turin_bridge_horizontal2.jpeg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;">
+        <img src="{{ site.baseurl }}/Turin_mole.jpeg" alt="Luisa Carrer" class="img-fluid" style="max-width: 100%;">
     </div>
     
     <!-- Column for the contact details -->
     <div class="col-12 col-md-4 col-lg-5">
     <br>
     <br>
+    
+    <br>
+    <br>
+    
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> ESCP Business School </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif"> Via Andrea Doria, 27 </div>
     <div style="font-size:15px;font-family: 'Source Sans Pro', sans-serif">  10123 </div>
