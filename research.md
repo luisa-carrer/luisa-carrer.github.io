@@ -38,7 +38,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a><span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a> <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <span style="font-weight: normal; font-size: 14px;"></span> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
