@@ -38,8 +38,8 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a>
-  <span style="font-weight: normal; font-size: 14px;"></span>
+  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a><span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
+  <span style="font-weight: normal; font-size: 14px;"></span> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/view/sebastien-montpetit/home" target="_blank"><u>Sébastien Montpetit</u></a> (University of Warwick) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
@@ -55,7 +55,7 @@ permalink: /research/
 
 
 
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We assess the welfare impact of universal childcare provision, leveraging the introduction of public daycare services in Québec in 1997. Unlike the standard sufficient-statistic metric, which assumes a marginal change in fiscal policy, our approach accounts for the non-marginal nature of the program and quantifies non-pecuniary benefits. Through a structural model of maternal labor supply and childcare choices, we estimate substantial welfare gains from universal policies, yielding a Marginal Value of Public Funds (MVPF) above 3.5. Using the sufficient-statistic approach leads to underestimating welfare gains by half. Counterfactual simulations and a difference-in-differences analysis suggest that increasing availability, rather than solely improving affordability, is crucial for the effective design of universal preschool programs.</p>
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We assess the welfare impact of the introduction of universal daycare services in Québec in 1997. Unlike the standard sufficient-statistics metric, which assumes marginal changes in fiscal policy, our approach accounts for the non-marginal nature of the program and quantifies non-pecuniary benefits. Through a structural model of childcare demand, we estimate substantial welfare gains from the policy, yielding a Marginal Value of Public Funds (MVPF) above 2.8. Using the sufficient-statistics approach underestimates welfare gains by half. Counterfactual simulations and a difference-in-differences analysis suggest that increasing availability, rather than solely improving affordability, is crucial for the effective design of universal programs.</p>
 
   <!-- <p>&nbsp; -->
   <!-- </p> -->
