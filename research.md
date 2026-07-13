@@ -86,7 +86,16 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
+<h1 
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of reputational shocks in team-based production environments </u>
+</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
 
+<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: This paper studies how reputational shocks are distributed within teams, using scientific article retractions as a setting in which a highly visible negative signal falls simultaneously on all co-authors while individual responsibility remains ambiguous. Linking retraction records to the complete publication histories of all involved authors (1993-2020), and applying document embeddings to over 490,000 abstracts, we assess both demand-side responses by the scientific community and supply-side adjustments by affected authors. We document large and persistent gender gaps in retraction penalties: female co-authors experience substantially larger citation losses than male co-authors from the same event, and shift their research agendas significantly farther from the retracted topic. We interpret the citation gap as reflecting biased blame attribution by the scientific community:  it concentrates in mixed-gender teams, larger groups, and mid-authorship positions, and it is larger for severe retractions and in male-dominated fields. The agenda shift, by contrast, we interpret as reflecting a differential behavioral response by women. In line with this, women also gain fewer new collaborators, experience a larger productivity slowdown, and display higher rates of exit from academia.  Importantly, the citation gap persists even among authors whose post-retraction work remains close to the retracted topic, ruling out that women's behavioral responses fully account for the demand-side penalty. Our findings reveal that ambiguity in responsibility attribution amplifies pre-existing gender inequalities through both demand- and supply-side mechanisms.</p>
+
+
+<p>&nbsp;
+</p>
 
 
 
@@ -106,16 +115,6 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-<h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of reputational shocks in team-based production environments </u>
-</h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
-
-<p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: This paper studies how reputational shocks are distributed within teams, using scientific article retractions as a setting in which a highly visible negative signal falls simultaneously on all co-authors while individual responsibility remains ambiguous. Linking retraction records to the complete publication histories of all involved authors (1993-2020), and applying document embeddings to over 490,000 abstracts, we assess both demand-side responses by the scientific community and supply-side adjustments by affected authors. We document large and persistent gender gaps in retraction penalties: female co-authors experience substantially larger citation losses than male co-authors from the same event, and shift their research agendas significantly farther from the retracted topic. We interpret the citation gap as reflecting biased blame attribution by the scientific community:  it concentrates in mixed-gender teams, larger groups, and mid-authorship positions, and it is larger for severe retractions and in male-dominated fields. The agenda shift, by contrast, we interpret as reflecting a differential behavioral response by women. In line with this, women also gain fewer new collaborators, experience a larger productivity slowdown, and display higher rates of exit from academia.  Importantly, the citation gap persists even among authors whose post-retraction work remains close to the retracted topic, ruling out that women's behavioral responses fully account for the demand-side penalty. Our findings reveal that ambiguity in responsibility attribution amplifies pre-existing gender inequalities through both demand- and supply-side mechanisms.</p>
-
-
-<p>&nbsp;
-</p>
 
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u>
