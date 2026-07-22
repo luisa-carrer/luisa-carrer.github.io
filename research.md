@@ -86,8 +86,10 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
+  
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of reputational shocks in team-based production environments </u>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of reputational shocks in team-based production environments </u> <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162420" target="_blank"><u>[WP]</u></a> 
+  <span style="font-weight: normal; font-size: 14px;"></span>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
 
