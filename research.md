@@ -49,10 +49,10 @@ permalink: /research/
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best Paper Prize 2024 (runner-up) of the  <a style="color: #081b88" href="https://clef.uwaterloo.ca/" target="_blank"><u>Canadian Labour Economics Forum</u></a></em></h1>
 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><u>Academic coverage</u>: 
-  <a style="color: #081b88" href="https://childcarepolicy.net/new-support-for-the-economic-benefits-of-universal-child-care/" target="_blank"><u>Gordon Cleveland's blog post</u></a>
+  <a style="color: #081b88" href="https://childcarepolicy.net/new-support-for-the-economic-benefits-of-universal-child-care/" target="_blank"><u>childcarepolicy.net</u></a>
   <a style="color: #081b88" href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>Policy Impacts Library</u></a>, 
   <a style="color: #081b88" href="https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists/econ-job-market-vlog" target="_blank"><u> AYEW Job Market Vlog</u></a>, 
-  <a style="color: #081b88" href="https://childcarepolicy.net/my-submission-to-the-standing-committee-on-finance-2026/" target="_blank"><u>Gordon Cleveland's blog post</u></a>
+  <a style="color: #081b88" href="https://childcarepolicy.net/my-submission-to-the-standing-committee-on-finance-2026/" target="_blank"><u>childcarepolicy.net</u></a>
 </h1>
 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">
