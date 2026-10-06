@@ -37,13 +37,14 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a> 
+  <u> Beyond Earnings: Availability and the Non-Pecuniary Returns of Universal Childcare</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://drive.google.com/file/d/1dDWvj2e08YodXAWd5zdmBKP3j-kxt1Uj/view?usp=sharing" target="_blank"><u>[Last version]</u></a> 
    <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span> -->
   <span style="font-weight: normal; font-size: 14px;"></span> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
-<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/view/sebastien-montpetit/home" target="_blank"><u>Sébastien Montpetit</u></a> (University of Warwick) and <a style="color: #081b88" href="https://sites.google.com/view/pierreloupbeauregard/" target="_blank"><u>Pierre-Loup Beauregard</u></a> (University of British Columbia)</h1>
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/view/sebastien-montpetit/home" target="_blank"><u>Sébastien Montpetit</u></a> (University of Toronto) and <a style="color: #081b88" href="https://pierreloupbeauregard.org/index.html" target="_blank"><u>Pierre-Loup Beauregard</u></a> (Université de Montréal)</h1>
 
+<h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>This paper was previously circulated under the title <q>A Welfare Analysis of Universal Childcare: Lessons From a Canadian Reform</q></em></h1>
 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best Paper Prize 2024 (runner-up) of the  <a style="color: #081b88" href="https://clef.uwaterloo.ca/" target="_blank"><u>Canadian Labour Economics Forum</u></a></em></h1>
 
