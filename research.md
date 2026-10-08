@@ -52,7 +52,7 @@ permalink: /research/
   <a style="color: #081b88" href="https://childcarepolicy.net/new-support-for-the-economic-benefits-of-universal-child-care/" target="_blank"><u>childcarepolicy.net</u></a>,
   <a style="color: #081b88" href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>Policy Impacts Library</u></a>, 
   <a style="color: #081b88" href="https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists/econ-job-market-vlog" target="_blank"><u> AYEW Job Market Vlog</u></a>, 
-  <a style="color: #081b88" href="https://childcarepolicy.net/my-submission-to-the-standing-committee-on-finance-2026/" target="_blank"><u>childcarepolicy.net</u></a>
+  <a style="color: #081b88" href="https://childcarepolicy.net/my-submission-to-the-standing-committee-on-finance-2026/" target="_blank"><u>childcarepolicy.net</u></a>,
     <a style="color: #081b88" href="https://childcarepolicy.net/what-is-to-be-done-lessons-from-quebec/" target="_blank"><u>childcarepolicy.net</u></a>
 </h1>
 
