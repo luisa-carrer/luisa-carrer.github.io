@@ -38,7 +38,7 @@ permalink: /research/
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
   <u> Beyond Earnings: Availability and the Non-Pecuniary Returns of Universal Childcare</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://sebastienmontpetit.github.io/WebsiteSM/MCB_QCchildcare.pdf" target="_blank"><u>[Last version]</u></a> 
-   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span> -->
+    <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span> 
   <span style="font-weight: normal; font-size: 14px;"></span> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
 </h1>
@@ -53,6 +53,7 @@ permalink: /research/
   <a style="color: #081b88" href="https://policyimpacts.org/policy-impacts-library/universal-childcare-provision/" target="_blank"><u>Policy Impacts Library</u></a>, 
   <a style="color: #081b88" href="https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists/econ-job-market-vlog" target="_blank"><u> AYEW Job Market Vlog</u></a>, 
   <a style="color: #081b88" href="https://childcarepolicy.net/my-submission-to-the-standing-committee-on-finance-2026/" target="_blank"><u>childcarepolicy.net</u></a>
+    <a style="color: #081b88" href="https://childcarepolicy.net/what-is-to-be-done-lessons-from-quebec/" target="_blank"><u>childcarepolicy.net</u></a>
 </h1>
 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">
