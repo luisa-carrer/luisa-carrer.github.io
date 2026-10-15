@@ -22,7 +22,7 @@ permalink: /research/
 <p style="font-size:25px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 500; margin-top: 0.8em">Working Papers </p>  
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> Municipal-level Gender Norms: Measurement and Effects on Women in Politics</u> <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5725044" target="_blank"><u>[WP]</u></a> <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
+   Municipal-level Gender Norms: Measurement and Effects on Women in Politics <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5725044" target="_blank"><u>[WP]</u></a> <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
   <!--  <span style="font-weight: normal; font-size: 14px;"></span> -->
 </h1> 
@@ -37,7 +37,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> Beyond Earnings: Availability and the Non-Pecuniary Returns of Universal Childcare</u> <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://sebastienmontpetit.github.io/WebsiteSM/MCB_QCchildcare.pdf" target="_blank"><u>[Last version]</u></a> 
+   Beyond Earnings: Availability and the Non-Pecuniary Returns of Universal Childcare <a style="color: #081b88"  href="https://www.child.carloalberto.org/images/documenti/child128_2025.pdf" target="_blank"><u>[WP]</u></a> <a style="color: #081b88"  href="https://sebastienmontpetit.github.io/WebsiteSM/MCB_QCchildcare.pdf" target="_blank"><u>[Last version]</u></a> 
     <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span> 
   <span style="font-weight: normal; font-size: 14px;"></span> 
   <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[Draft available upon request]</em></span> -->
@@ -81,7 +81,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  <u> Rent Control and Decontrol: Temporary Gains, Persistent Losses</u> <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5883882" target="_blank"><u>[WP]</u></a> 
+  Rent Control and Decontrol: Temporary Gains, Persistent Losses <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5883882" target="_blank"><u>[WP]</u></a> 
   <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
 </h1> 
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/michael-abel-97594b1b/" target="_blank"><u>Michael Abel</u></a> (ESCP Business School) and <a style="color: #081b88" href="https://irefim.escp.eu/selected-works/?_ga=2.112653249.473831097.1752198610-1574085363.1711709394" target="_blank"><u>Jaime Luque</u></a> (ESCP Business School)
@@ -95,7 +95,7 @@ permalink: /research/
 
   
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> The gendered effects of reputational shocks in team-based production environments </u> <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162420" target="_blank"><u>[WP]</u></a>  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> The gendered effects of reputational shocks in team-based production environments <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162420" target="_blank"><u>[WP]</u></a>  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>submitted</em>)</em></span>
   <span style="font-weight: normal; font-size: 14px;"></span>
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/site/pierabelloshomepage" target="_blank"><u>Piera Bello</u></a> (University of Bergamo) and <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University)</h1>
@@ -113,7 +113,7 @@ permalink: /research/
 
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Gender Norms and Parental Leave</u>
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">Gender Norms and Parental Leave
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/lorenzo-de-masi-a71023a8/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy) and <a style="color: #081b88" href="https://sites.google.com/site/francescabarigozziunibo/" target="_blank"><u>Francesca Barigozzi</u></a> (University of Bologna)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Selected project for <a style="color: #081b88" href="https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars.html" target="_blank"><u>VisitINPS Fellowship</u></a> on gender inequalities</em></h1>
@@ -126,7 +126,7 @@ permalink: /research/
 
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up </u>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> Whose (misperceived) norms matter? Shifting norms of paternity leave take-up 
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://faculty.unibocconi.it/alessandracasarico/" target="_blank"><u>Alessandra Casarico</u></a> (Bocconi University) and <a style="color: #081b88" href="https://www.alessandra-l-gonzalez.com/" target="_blank"><u>Alessandra Gonz&aacute;lez</u></a> (Duke University) </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em> <a style="color: #081b88" href="https://www.socialscienceregistry.org/trials/16887" target="_blank"><u>Pre-registered at AEA RCT Registry (RCT ID: AEARCTR-0016887)</u></a> </em></h1>
@@ -139,7 +139,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Social norms and career decisions: Experimental evidence on gender and parenthood biases in STEM and non-STEM jobs</u>
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> Social norms and career decisions: Experimental evidence on gender and parenthood biases in STEM and non-STEM jobs
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://sites.google.com/site/francescabarigozziunibo/" target="_blank"><u>Francesca Barigozzi</u></a> (University of Bologna) and <a style="color: #081b88" href="https://www.unibo.it/sitoweb/natalia.montinari2" target="_blank"><u>Natalia Montinari</u></a> (University of Bologna)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em> <a style="color: #081b88" href="https://www.socialscienceregistry.org/trials/16071" target="_blank"><u>Pre-registered at AEA RCT Registry (RCT ID: AEARCTR-0016071)</u></a> </em></h1>
@@ -155,7 +155,7 @@ permalink: /research/
 </p>
 
 <h1 class="line-spacing"
-  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u>Demand side story: How female labor influences childcare supply</u>
+  style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">Demand side story: How female labor influences childcare supply
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">with <a style="color: #081b88" href="https://www.linkedin.com/in/lorenzo-de-masi-a71023a8/" target="_blank"><u>Lorenzo de Masi</u></a> (Bank of Italy) and <a style="color: #081b88" href="https://elenarenzullo.weebly.com/" target="_blank"><u>Elena Renzullo</u></a> (Newcastle University Business School & London School of Economics)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Selected project for <a style="color: #081b88" href="https://www.inps.it/it/it/dati-e-bilanci/attivit--di-ricerca/programma-visitinps-scholars.html" target="_blank"><u>VisitINPS Scholarship</u></a> "Program type B"</em></h1>
@@ -168,7 +168,7 @@ permalink: /research/
 </p>
 
 <h1 
-    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"><u> Peer effects and gender inequality in political leadership: Evidence from the European Parliament </u>
+    style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> Peer effects and gender inequality in political leadership: Evidence from the European Parliament 
 </h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.1em">with <a style="color: #081b88" href="https://sites.google.com/view/hugosubtil/home" target="_blank"><u>Hugo Subtil</u></a> (University of Zurich)</h1>
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the <a style="color: #081b88" href="https://www.ipz.uzh.ch/en/research/urpp/Grant-Recipients-Fall-Semester-2025.html" target="_blank"><u>IPZ Inequality Research Fund</u></a>  from the University of Zurich</em></h1>
