@@ -60,21 +60,7 @@ permalink: /research/
 <u>Media</u>: <a style="color: #081b88" href="https://www.nytimes.com/2025/09/22/business/universal-child-care-us-economy.html" target="_blank"><u>New York Times</u></a>, <a style="color: #081b88" href="https://www.lapresse.ca/actualites/2025-11-13/cpe-et-garderies-subventionnees/the-economist-monte-au-creneau-contre-le-modele-quebecois.php" target="_blank"><u>La Presse</u></a>, <a style="color: #081b88" href="https://www.ledevoir.com/economie/819527/garderies-rapportent-trois-fois-plus-meres-ce-elles-coutent-etat?" target="_blank"><u>Le Devoir</u></a>, Radio-Canada Ottawa, CJAD 800 Montreal, 98.5fm Montréal, 107.7fm Estrie, Zone Économie (Radio-Canada)
 </h1>
 
-
-
 <!-- <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We assess the impact of the universal childcare program introduced in Québec in 1997 on mothers' welfare. Unlike the standard sufficient-statistics approach, which assumes marginal changes in policy, we account for the non-marginal nature of the program and quantify non-pecuniary benefits from improved work-family balance. Through a structural model of childcare demand, we estimate substantial welfare gains, yielding a Marginal Value of Public Funds (MVPF) above 2.8. Focusing on earnings alone underestimates benefits by more than half. Counterfactual simulations and a difference-in-differences analysis suggest that increasing availability, rather than only improving affordability, is crucial for the effectiveness of universal programs.</p>  -->
-
-  <!-- <p>&nbsp; -->
-  <!-- </p> -->
-
-  <!--  <h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> -->
-  <!--   <u> The Effectiveness of Parental Leaves when Social Norms Matter</u>  <a style="color: #081b88"  href="https://drive.google.com/file/d/193LAbhUfhg7WY9Kknz8c9YD8srYpbM_x/view?usp=drive_link" target="_blank"><u>[PDF]</u></a> -->
-  <!-- <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">[New draft coming soon!]</em></span> -->
-     
-  <!-- </h1> -->
-  <!-- <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em"><em>Awarded the Best paper award (third prize) at the <a style="color: #081b88" href="https://acdd.sciencesconf.org/" target="_blank"><u>Augustin Cournot Doctoral Days 2021</u></a></em></h1> -->
-
-  <!-- <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: Do gender norms affect the impact of parental leave policies? I show how, in presence of conservative norms, leave policies may fail to foster gender convergence, and possibly be counterproductive for it. I consider a model where mothers' career and couples' childcare decisions are affected by endogenous norms regarding maternal care. Adhering to conservative gender norms, mothers caring for their infants impose a negative externality on other mothers. The introduction of parental leave expands the utility-possibility frontier, and more mothers pursue high-level careers. However, both because of conservative norms and the reduced opportunity cost of care, they take inefficiently long leaves, thus reinforcing conservative gender roles. I show that fathers' quotas that reserve a fraction of the leave for fathers can restore efficiency. Intuitively, when parents share leave, mothers take shorter leaves, thus reducing norm costs suffered by other mothers. Hence, in gender conservative contexts, policies aiming to increase fathers' involvement in care are desirable not only for gender equity, but also on efficiency grounds. In a second step, I test my model's key predictions in the Italian context. I confirm that when they share leave with fathers, mothers take shorter leaves. Furthermore, mothers' education significantly decreases their likelihood of taking long leaves in areas with more neutral norms, but not in more traditional ones, confirming the importance of norms in leave uptake.</p> -->
 
 
 <p>&nbsp;
