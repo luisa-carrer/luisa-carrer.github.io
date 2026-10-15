@@ -61,8 +61,6 @@ permalink: /research/
 </h1>
 
 <!-- <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We assess the impact of the universal childcare program introduced in Québec in 1997 on mothers' welfare. Unlike the standard sufficient-statistics approach, which assumes marginal changes in policy, we account for the non-marginal nature of the program and quantify non-pecuniary benefits from improved work-family balance. Through a structural model of childcare demand, we estimate substantial welfare gains, yielding a Marginal Value of Public Funds (MVPF) above 2.8. Focusing on earnings alone underestimates benefits by more than half. Counterfactual simulations and a difference-in-differences analysis suggest that increasing availability, rather than only improving affordability, is crucial for the effectiveness of universal programs.</p>  -->
-
-
 <p>&nbsp;
 </p>
 
