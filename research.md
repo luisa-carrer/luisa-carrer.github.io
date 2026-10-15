@@ -74,7 +74,7 @@ permalink: /research/
 <h1 class="line-spacing" style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; color: black; margin-top: 0.3em">
 <u>Media</u>: 
   <a style="color: #081b88" href="https://www.elconfidencial.com/inmobiliario/2023-11-29/entrevista-jaim-luque-mercado-inmobiliario-alquiler_3779073/" target="_blank"><u>El confidencial</u></a>, 
-  <a style="color: #081b88" href="https://cepr.org/voxeu/columns/more-women-politics-does-not-always-mean-more-gender-equality" target="_blank"><u>El Espa&#241;ol</u></a>
+  <a style="color: #081b88" href="https://www.elespanol.com/opinion/tribunas/20230528/efectos-perversos-control-alquiler/767043292_12.html" target="_blank"><u>El Espa&#241;ol</u></a>
 </h1>
 
 <!-- <p style="font-size:14px;font-family: 'Source Sans Pro', sans-serif; margin-top: 0.8em"><u>Abstract</u>: We study a stringent rent control law introduced in 60 municipalities in Catalonia in 2020 and suddenly eliminated in 2022. Using matched rental and sale listings, we find that rents fall by 6-7% after implementation but return to pre-policy levels within a year as rental listings drop by nearly 40%. Sale listings increase by 16–17% and prices decline by 2-3%, with persistent effects after decontrol. Administrative data suggest that landlords reallocate supply from rentals to sales and rely on contracts exempt from the law or left unregistered. As a result, rent relief is short-lived, while losses in property values persist.</p> -->
