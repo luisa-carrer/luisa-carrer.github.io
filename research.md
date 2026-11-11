@@ -82,12 +82,6 @@ permalink: /research/
 <p>&nbsp;
 </p>
 
-
-
-<h1 class="line-spacing" style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;">
-  Rent Control and Decontrol: Temporary Gains, Persistent Losses <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5883882" target="_blank"><u>[WP]</u></a> 
-  <span style="font-weight: normal; font-size: 14px;"><em style="color: #081b88">(<em>R&amp;R American Economic Journal: Economic Policy</em>)</em></span>
-</h1> 
   
 <h1 
     style="font-size:17px;font-family: 'Source Sans Pro', sans-serif; color: #081b88; font-weight: 700;"> The gendered effects of reputational shocks in team-based production environments <a style="color: #081b88"  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162420" target="_blank"><u>[WP]</u></a>
